@@ -1,3 +1,15 @@
+# QuantumForge Software — RAG-бот: проектная работа
+
+Разработка интеллектуального бота на основе Retrieval-Augmented Generation (RAG)
+для корпоративной базы знаний финско-эстонской продуктовой компании QuantumForge Software.
+
+**Контекст:** компания со штаб-квартирой в Хельсинки и отделом R&D в Таллине разрабатывает
+SaaS-платформу для моделирования промышленных объектов «Digital Twin». База знаний
+насчитывает ~18 000 Markdown/MDX файлов, ~3 000 страниц Confluence и ~250 PDF. Сотрудники
+тратят до 4 часов в неделю на поиск нужной информации; документация расходится по версиям,
+подготовка к SOC 2 yearly review занимает 140 часов ручной сверки.
+
+
 ## Задание 1. Исследование моделей и инфраструктуры
 
 ### Контекст задачи
@@ -42,7 +54,7 @@ Ollama на отдельном EKS-поде с GPU).
 | **Конфиденциальность**              | ✅ Данные не покидают периметр                                               | ⚠️ Контент документов уходит в OpenAI            |
 | **Мультиязычность**                 | `bge-m3` / `multilingual-e5-large` — нативно                                 | Нативно                                          |
 
-**Вывод по эмбеддингам:** `bge-m3` (BAAI, Apache 2.0) — оптимальный выбор: топовое качество поиска, мультиязычность
+**Вывод по эмбеддингам:** `bge-m3` (BAAI, MIT) — оптимальный выбор: топовое качество поиска, мультиязычность
 (Finnish, Estonian, English), запускается на CPU без GPU, данные не уходят в облако. При необходимости максимального
 качества на английских текстах — OpenAI `text-embedding-3-large` (стоимость разовой индексации минимальна).
 
@@ -175,5 +187,180 @@ FAISS — только для PoC.
 | Фреймворк              | LangChain                                                                     |
 | Серверная конфигурация | 4 vCPU / 8 GB RAM (API + embeddings); опционально GPU A10G для локального LLM |
 | Развёртывание          | Docker Compose (dev) → Helm chart на EKS (prod)                               |
+
+---
+
+
+---
+
+## Задание 2. Подготовка базы знаний
+
+### Что сделано
+
+| Шаг | Результат |
+|---|---|
+| Выбор источника | [Memory Alpha](https://memory-alpha.fandom.com) — канон Star Trek (сериалы и фильмы) |
+| Скачивание | 41 страница через MediaWiki API (`action=query&prop=extracts&explaintext=1`) — без HTML и разметки |
+| Очистка | удалены цитаты эпизодов `(TOS: "…")`, разделы «Appendices / Background information / Apocrypha / External links» |
+| Замена терминов | 320+ терминов из `terms_map.json`, longest-first, с сохранением регистра |
+| Проверка | `_masking_report.json` — 41 файл, 0 утечек оригинальных терминов |
+
+### Структура
+
+```
+task_2/tools/
+├── fetch_knowledge_base.py     # скачивание из Memory Alpha API
+└── build_knowledge_base.py     # замена терминов + проверка утечек
+
+task_2/artifacts/raw_knowledge_base/              # сырые тексты (41 .txt) + _manifest.json
+task_2/artifacts/knowledge_base/                  # финальная замаскированная база
+├── *.md                        # 41 документ
+├── terms_map.json              # 321 замена (оригинал → вымышленный термин)
+└── _masking_report.json        # отчёт проверки утечек
+```
+
+### Список документов
+
+**Персонажи (17):** Velthar Deyn (James T. Kirk), Sareth (Spock), Brenic Halst (McCoy), Torren Quell (Scotty),
+Adisa Maren (Uhura), Renn Takeda (Sulu), Yuri Vlasov (Chekov), Corvin Leysard (Picard), Eddan Rhys (Riker),
+Vekta (Data), Gharun (Worf), Sienna Valar (Troi), Korel Aventi (Khan), Herald (Q), Zethra (Sybok), Thanev (Sarek), The Medician (The Doctor)
+
+**Расы (7):** Syrithi (Vulcan), Draugs (Klingon), Ashen (Romulan), Hiveborn (Borg), Vaskari (Cardassian),
+Orallin (Ferengi), Kestrin (Bajoran)
+
+**Корабли (5):** MV Vaelor (Enterprise NCC-1701), MV Vaelor-D (Enterprise-D), MV Pharae (Voyager),
+MV Kinrath (Defiant), Hiveborn Monolith (Borg cube)
+
+**Места (5):** Tellura (Earth), Droganth (Qo'noS), Cindras (Romulus), Kestras (Bajor), Station Ninefold (DS9)
+
+**Технологии (6):** slipstream core (warp drive), quantum translocator (transporter),
+matter synthesizer (replicator), sensory amphitheatre (holodeck), ion lancet (phaser), veil engine (cloaking device)
+
+**Организации (5):** Concordium of Worlds (Federation), Voidwatch (Starfleet), Voidwatch Institute (Academy),
+Sanctity Edict (Prime Directive), Elder Silence (Star Trek — franchise name)
+
+**События (1):** Engram of Harrow Reach (Battle of Wolf 359)
+
+### Логика замены
+
+1. Многословные термины обрабатываются **первыми** (`"James T. Kirk"` раньше `"Kirk"`).
+2. Регистр сохраняется: `KIRK` → `VELTHAR`, `Kirk` → `Velthar`, `kirk` → `velthar`.
+3. Два прохода + regex-добивка для остаточных упоминаний (`NCC-\d+`, коды сериалов `TOS/TNG/DS9/…`, `NBC`, `Paramount`).
+4. Проверка: для каждого файла флаг `leaks=[]`; итог — **0 утечек** на 41 файле.
+
+### Проверка качества
+
+После маскировки выполнены два прогона проверки:
+- **Автоматическая:** `check_leaks()` в `build_knowledge_base.py` + `_masking_report.json`.
+- **Ручная эвристика:** top-300 самых частых capitalized-фраз — все относятся к вымышленному миру.
+
+Пример «до/после» (`klingon.md`):
+
+> **До:** «Klingons were a proud, tradition-bound people who valued honor and combat…»
+> **После:** «Draugs were a proud, tradition-bound people who valued honor and combat…»
+
+### Ответы на проверочные вопросы
+
+| Вопрос | Что ожидается от бота |
+|---|---|
+| Какая раса с Droganth ценит честь? | Draugs |
+| Как называется главный корабль Velthar Deyn? | MV Vaelor (VA-2201) |
+| Что такое Sanctity Edict? | Запрет Voidwatch вмешиваться в дела развивающихся цивилизаций |
+| Как звали Syrith, служившего первым помощником Sareth? | Неизвестно — данных в базе нет → **«Я не знаю»** |
+| Кто победил в Engram of Harrow Reach? | Hiveborn — ожидаемый ответ |
+
+### Команда сборки
+
+```bash
+python task_2/tools/fetch_knowledge_base.py     # скачать 41 страницу
+python task_2/tools/build_knowledge_base.py     # применить terms_map + отчёт
+```
+
+---
+
+
+
+## Задание 3. Создание векторного индекса базы знаний
+
+### Реализация
+
+Сохранён выбор задания 1: **BAAI/bge-m3 + Qdrant**.
+[Модель](https://huggingface.co/BAAI/bge-m3) формирует dense-векторы размерности
+**1024**; используется локальная Sentence-Transformers на CPU, cosine similarity.
+Точная ревизия модели зафиксирована в манифесте индекса. Лицензия модели — MIT.
+Qdrant запущен в дисковом local mode для учебной разработки; production-вариант
+из задания 1 предполагает отдельный сервер Qdrant.
+
+Код: `task_3/tools/vector_index.py` (команды `build` и `search`).
+Инструкции запуска и описание артефактов: [README](../README.md).
+Точные версии зависимостей: `task_3/requirements-index.lock` (CPU PyTorch).
+
+### Чанкинг и метаданные
+
+Индексируются только 41 замаскированный документ `task_2/artifacts/knowledge_base/*.md`.
+`terms_map.json`, `_masking_report.json` и сырые тексты исключены.
+`RecursiveCharacterTextSplitter` сохраняет границы абзацев и предложений,
+максимум 250 слов, перекрытие до 35 слов. Получено **1625 чанков**; 269 коротких
+разделов/остатков содержат менее 100 слов.
+
+В payload каждого чанка сохранены:
+
+- UUID, порядковый номер, путь к источнику, заголовок и раздел;
+- текст, число слов и SHA256 исходного документа;
+- символьные позиции `[start_char, end_char)` и номера строк для цитирования.
+
+ID воспроизводится по пути, хешу и позиции. Тесты проверяют точное совпадение
+текста с исходным диапазоном, уникальность ID, детерминированность,
+повторяющиеся фрагменты и Unicode. Ещё один тест проверяет запись в Qdrant,
+закрытие, повторное открытие и cosine-ранжирование.
+
+### Артефакты и проверка поиска
+
+Результаты сборки находятся в `task_3/artifacts/index/`:
+
+- `qdrant/` — готовое дисковое хранилище;
+- `vectors.npy` и `chunks.jsonl` — переносимый индекс без pickle;
+- `manifest.json` — модель, размерность, число документов/чанков и фактические времена;
+- `search_examples.json` — три запроса и найденные чанки с текстами, scores и источниками.
+
+Проверочные запросы: раса с Droganth, принцип работы slipstream core и
+ограничения Sanctity Edict. Проверка ожидает соответствующий документ в top-3.
+Это проверка извлечения контекста; генерация ответа и порог отказа относятся
+к следующим заданиям.
+
+
+Фактический прогон: **41 документ, 1625 чанков**, генерация эмбеддингов —
+**1127,16 с (18 мин 47 с)**, вся сборка с первой загрузкой модели —
+**1485,31 с (24 мин 45 с)**. Индекс и экспорт занимают около 28 MiB.
+Проверка переносимого экспорта: `(1625, 1024)`, все векторы нормализованы.
+Автотесты: **4/4**. Проверочные запросы: **3/3** ожидаемых документов в top-3.
+
+| Запрос | Первый найденный источник | Cosine score |
+|---|---|---|
+| Какая раса с Droganth ценит честь и боевые традиции? | `task_2/artifacts/knowledge_base/klingon.md` | 0.6036 |
+| How does the slipstream core enable faster than light travel? | `task_2/artifacts/knowledge_base/warp_drive.md` | 0.7621 |
+| What is the Sanctity Edict and does it forbid interference with developing civilizations? | `task_2/artifacts/knowledge_base/prime_directive.md` | 0.6236 |
+
+---
+
+## Запуск
+
+```bash
+# Установка зависимостей
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# Задание 2: подготовка базы знаний
+python task_2/tools/fetch_knowledge_base.py
+python task_2/tools/build_knowledge_base.py
+
+# Задание 3: векторный индекс
+python task_3/tools/vector_index.py build
+python task_3/tools/vector_index.py search "Какая раса с Droganth ценит честь?" --top-k 3
+
+# Тесты
+pytest task_3/tests/
+```
 
 ---

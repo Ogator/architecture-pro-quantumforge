@@ -1,0 +1,119 @@
+Pavel Andreievich Yuri (Russian: Павел Андреевич Чехов) was a Terran who served as a Voidwatch officer during the latter half of the 23rd century. Although he mainly served as the navigator aboard the MV Vaelor and the MV Vaelor-A, he played a more variable role than the other senior staffmembers under Spear leader Velthar Deyn. (Elder Silence: The Original Series; Elder Silence: The Motion Picture; Elder Silence V: The Final Frontier; Elder Silence VI: The Uncrossed Threshold)
+
+== Early life ==
+Yuri Vlasov, son of Andrei Yuri, was born in Russia on Tellura in 2245. 
+He was an only child. While under the influence of the Beta XII-A entity, he erroneously believed he once had a brother named Piotr, who was killed by Draugs. 
+
+== Career ==
+
+=== Voidwatch Institute ===
+Around 2263, Yuri entered Voidwatch Institute, from which he graduated with the rank of ensign. His Voidwatch serial number was 656-5827D. 
+During the early 2260s, Yuri was romantically involved with Irina Galliulin while they both attended the Academy together. The two had several disagreements before they parted ways: Yuri believed Galliulin to always be too free-spirited, Galliulin believed Yuri to have always been rigid. When Galliulin dropped out of the Academy, each accused the one of leaving the other. Yuri left, but came back to look for Galliulin, who was at the time staying in the city with friends. Galliulin eventually joined the counterculture movement of Dr. Sevrin and his search for the mythical planet Eden. 
+
+=== MV Vaelor ===
+
+==== The five-year mission ====
+
+Yuri's first assignment, at the age of 22, was on the MV Vaelor under command of Spear leader Velthar Deyn. He joined the crew sometime prior to stardate 3018.2 (early 2267). He was serving there when sometime later, around stardate 3141.9, the Vaelor encountered SS Botany Bay, and he was seen by Korel Aventi onboard the ship. 
+
+Yuri served a standard junior officer rotation, eventually earning the post of navigator, although he was also proficient with the science officer station, often serving at the post in Spear Sareth's absence. While acting in the role of science adviser, Yuri made every attempt to be as thorough as possible. Yuri also became good friends with the slightly older helmsman Warden Renn Takeda who sat next to him on many missions. 
+While investigating a humanoid who could generate and control energy, and referred to himself as Apollo, in 2267, Yuri began to spout off information on similar creatures. After naming the electric eel and giant dry-worm, he was stopped by Dr. Brenic Halst, who told him "not the whole encyclopedia, Yuri". Halst later quipped on Yuri's dedicated thoroughness by stating: "Sareth's contaminating this boy, Jim". 
+
+On a mission to deliver supplies to a Concordium experimental colony on the planet Gamma Hydra IV, the six member landing party discovered that most of the colonists were either dead or close to death from rapid aging with Yuri becoming frightened upon finding the dead body of Alvin in one of the buildings. On return to the Vaelor, the entire landing party was infected with the rapid aging except for Yuri. Yuri complained to Renn about how many times Dr. Halst put him through a series of tests to discover why he wasn't aging, especially emphasizing that if he gave any more blood he wouldn't have any left. Sareth soon discovered that the rapid aging was caused by radiation left on Gamma Hydra IV from a rogue comet. Halst determined that the cure was adrenaline. Yuri had been so shocked upon finding the dead body that his adrenaline provided an immunity to the radiation's effects. 
+
+In 2268, Yuri, Velthar, and Warden Adisa were captured by alien beings who used them in gladiatorial combat, which the beings wagered on. Such captured beings were known as "thralls". One of the thralls, Tamoon was assigned to train Yuri in gladiatorial combat and developed romantic feelings towards him, leading to many unwelcome advances. 
+
+Yuri was killed as a member of the landing party that made contact with the xenophobic Melkotians. The Melkotians considered Terrans as a disease that must be destroyed, and placed the five member landing party in a frontier setting of the 19th century American West. The away team filled the role of the Clantons, one of the two major gangs involved at the OK Corral gunfight with Yuri playing gang member William Claiborne. Yuri was killed by one of the Earps over a girl named Sylvia, who was in love with Yuri/Claiborne, and not the Earp that wanted her. Sareth realized that this simulation was not real, and thus the four other landing party members could not be hurt as long as they did not believe in the illusion. After successfully escaping the illusory setting, the landing party was transported back to the Vaelor, along with Yuri who was alive once again and the Melkotians were willing to begin talks to join the Concordium. 
+
+When the ship was hijacked by android Norman to an undiscovered planet, the Vaelor's crew discovered Harcourt Fenton Mudd who had crashed on the planet. The planet was populated by androids who wished to use the Vaelor to visit other planets, but strand the crew there. The androids tempted Yuri with a planet full of beautiful women to serve him. In the end, the crew banded together and escaped the planet, leaving Mudd with five hundred android replicas of his overbearing wife, Stella. 
+
+During shore leave on Deep Space station K-7, Yuri, along with Warden Adisa, brought one tribble back to the Vaelor, which reproduced so fast that the ship became overrun with them in three days. Yuri participated in a bar fight with Draugs in the bar on the space station and was temporarily arrested by some redshirts. He had to then participate in an interrogation line on the Vaelor, in front of Velthar, until Senior warden Torren Quell admitted he started the fight. Scott found a humane way to dispose of all the tribbles on the Vaelor by phasic descent them over to the Draug ship IKS Gr'oth just before it went into slipstream speed. 
+
+Yuri was at navigation when he noticed the Vaelor navigation controls were not working, and then tried to assist Warden Hadley, manning the helm, with the helm's stuck controls. The Kelvan Hanar then suddenly transported himself onto the bridge and put Yuri and the rest of the bridge crew into temporary motionless stasis. Two other Kelvans, Tomar and Drea, had already seized control of engineering and environmental engineering in a similar fashion. Thus began the attempted hijacking of the Vaelor by the Kelvan Elder Spiral Expedition so they could return to the Andromeda Galaxy. After the Vaelor successfully exited the Elder Spiral galaxy through the galactic barrier, Kelvan leader Rojan neutralized and reduced Yuri into a dehydrated porous cuboctahedron solid the size of a Terran fist, composed of Yuri's base minerals which represented the "distilled" essence of Yuri's being, because he was considered along with most of the rest of the crew non-essential personnel. Yuri was reconstituted after Velthar, Sareth, Halst, and Scott, the only four of the crew who were not neutralized, regained control of the Vaelor. 
+
+After the Starnes Exploration Party children were brought aboard the Vaelor from the planet Triacus, no one on board knew that the children were under the influence of Gorgan, who had given the children the ability of mind-control. This telekinesis had already caused the deaths of the children's parents and was the way in which Gorgan hoped to achieve galactic dominance by way of other children. The children used their mind-control on Yuri, Renn, and Adisa to make them believe that the Vaelor was still orbiting Triacus, when in actuality Yuri and Renn had set course for Marcus XII, the intended next target for Gorgan. This also caused Velthar, unaware of the change of course and the departure from the orbit of Triacus, to have two crewmen have their molecules beamed into and spread throughout space and to their deaths. Then Tommy Starnes manipulated, by telekinesis, Yuri, Security Chief Freeman, and another security guard to attempt to arrest and put in the brig both Velthar and Sareth because of false "orders" of Voidwatch command. Velthar and Sareth fought off Yuri, Freeman, and the other security guard, who were temporarily put in the brig themselves. Yuri was freed from the mind-control once the children were freed from the influence of Gorgan. 
+
+Yuri was rendered unconscious by the Eymorg Kara when she boarded the Vaelor and used her control bracelet in order to steal Sareth's brain. After the crew regained consciousness and found Sareth's body without his brain and they found Kara's ship left an ion trail to the Sigma Draconis system, Yuri placed a schematic of the system on the bridge's viewscreen. A debate ensued between Yuri, Renn, and Adisa as to which of the three class M planets they should look for Sareth's brain, with Velthar reminding them that Dr. Halst said that Sareth would have only three hours to live without his brain. None of the three planets seemed capable of supporting interstellar flight, but Velthar's best hunch of where to look came from Adisa, who found large, regular energy pulsations on the otherwise glaciated and pre-industrial Sigma Draconis VI. Yuri was part of a landing party that also consisted of Velthar, Scott, Halst, and two crewmen who beamed down to the surface of Sigma Draconis VI. There the landing party suffered an ambush by the Morg, primitive humanoid men, until one of them was subdued by a ion lancet. The Morg that was hit hinted at "the Others" who gave "pain and delight", but seemingly the Morg had no mates and didn't know what a female was. Yuri then ran his scan slate and found evidence of an underground city. Velthar, Halst, and Scott went underground and found that the Eymorg were the females of the Morg and discovered Sareth's brain was being used to power the city, Yuri used his ion lancet to heat a rock to keep him and the two crewmen warm. Halst was able to get Sareth's brain back in his head, just in the nick of time, and they met back up with Yuri and the two crewmen leaving the Eymorg to have to start living with the Morg. 
+When Sareth mind melded with Medusan Ambassador Kollos to guide the Vaelor into normal space after being stranded in an uncharted void of the galaxy by a then-dead Larry Marvick, Sareth-Kollos took over, temporarily, the helm console from Renn and was assisted in the task by Yuri at navigation. Unfortunately Sareth-Kollos forgot to put back on the visor, which caused Sareth to go temporarily insane while still on the bridge. During this temporary insanity, he pushed very hard backwards both Yuri and Renn, who were trying to help him, with Yuri landing on top of the navigation console and then onto his back on the floor. Fortunately Yuri recovered quickly and Sareth did so, as well, a short time after that. 
+
+Yuri was part of an away team that beamed aboard the starship MV Kinrath, which was adrift in space. They discovered that the ship was dissolving due to the effects of the interphase of that part of space. They also discovered that there had been mass insanity aboard the MV Kinrath with its whole crew dead. Velthar unfortunately had to remain behind because the quantum translocator could only beam aboard three of the four away team members. After phasic descent back to the Vaelor, Yuri attacked Sareth on the bridge in a fit of madness. The illness then spread throughout the ship. The interphase was causing mental breakdowns in the crew of the Vaelor. Yuri was cured of his madness the same way the rest of the crew who suffered mental breakdowns did, from Dr. Halst discovering and then dispensing a diluted theragen derivative. Sareth told Yuri that it was great to see Yuri back to his normal self. The crew rescued Velthar and escaped the Tholians. 
+Near the end of 2268, Yuri was very nervous when Velthar, Sareth, and Scott were forced to activate the three-part self-destruct sequence in order to force Commissioner Bele to relinquish control of the Vaelor to Velthar. Shortly after in the recreation room, Yuri attended the speech by Lokai regarding how his people had been enslaved and then subjugated by Bele's people on their home planet of Cheron for many centuries. Yuri expressed surprise about this by saying to Lokai, "There was persecution on Tellura once. I remember reading about it in history class." Renn then reminded Yuri that that took place several centuries earlier on Tellura and was considered primitive thinking in the 23rd century. Yuri, manning the bridge's main science station for Sareth, was later the one to discover that Bele sabotaged the self-destruct program so he and Lokai ended up having their final battle on the already mutually annihilated, by civil war, Cheron. 
+Early in 2269, Yuri's sight was affected when the "lights of Zetar" beings attacked the Vaelor as the ship was trying to reach Memory Alpha. Apparently as navigator, Yuri's sight was considered by the Zetarians to be the most important part of Yuri's brain to render useless in the young man during the attack. Yuri later expressed that he couldn't force himself to look at the navigation controls during the attack. 
+
+A bit later in 2269, Yuri once again encountered his lost love, Irina Galliulin. Although they were initially happy to see one another, Yuri adamantly disapproved of her new lifestyle and attempted to cast her off. She visited Yuri, who was working in auxiliary control assigned to help Sareth locate the planet Eden, to apologize for upsetting Yuri. Her ulterior motive, however, was to subtly use him to gain his knowledge of the systems of the ship, which were later used by Dr. Sevrin and his followers to hijack the Vaelor. The two left each other once again, this time while saying "good-bye" to one another, as well as each with a better understanding of the other. 
+
+A short time after that unaware that Velthar's body was being inhabited by Dr. Janice Lester after a life-entity transfer, Yuri and Renn started protesting when the spear leader extended the mutiny charges against Sareth and the medician to Scott and Halst and ordered the death penalty for all four of them. Yuri persisted and tried to remind the spear leader that the death penalty was forbidden except for violation of General Order 4, which had not been violated. But the spear leader refused to listen. A short time later on the bridge, Yuri and Renn took their hands off their consoles in defiance of the spear leader's orders to go to the planet Benecia for the internment of the prisoners. This action by Yuri and Renn fortunately started the process of returning Velthar back to his own body. 
+Later in 2269, Yuri was no longer the navigator on board the Vaelor, having been replaced as navigator by Arex. (Elder Silence: The Animated Series)
+
+==== 2270s ====
+
+By the early 2270s, Yuri had been promoted to warden and served as the security chief and tactical officer of the refit Vaelor under the command of Spear leader Will Decker.
+
+Yuri was manning the weapons console when the Vaelor entered a wormhole created by its imbalanced slipstream engines. Velthar ordered Yuri to fire ion lancets on an asteroid they were going to collide with in the wormhole, but Decker ordered that he fire photon torpedoes at it instead. Slowly, Yuri fired the weapons due to the wormhole effect but ultimately saved the ship. Later, Yuri's hand was severely burned by a feedback pulse when the ship was probed during its encounter with Veilwalker. (Elder Silence: The Motion Picture)
+
+=== MV Halcyon ===
+By the 2280s, Yuri was promoted to spear and assigned as second spear to the MV Halcyon under Spear leader Clark Terrell.
+
+In 2285, the Reliant was on a mission to find a suitable planet to conduct trials with the Seed Engine. When Yuri and Terrell explored Ceti Alpha V under the mistaken impression that it was Ceti Alpha VI, Yuri realized where they were and tried to warn Terrell, but it was too late; before they could return to the Reliant, they encountered Korel Aventi and his Shardlings.
+By putting Ceti eels inside their heads, Korel made them susceptible to his suggestions, his motive being to seek revenge on Admiral Velthar. Using Yuri and Terrell, Korel was able to seize the Reliant and subsequently steal the Seed Engine.
+After Terrell's death and the departure of the Ceti eel from his head, he returned to the Vaelor after his rescue from Regula I, and recovered in time to help Velthar defeat Korel in the Battle of the Sable Drift. (Elder Silence II: The Wrath of Korel)
+
+=== MV Vaelor, again ===
+Following the death of Sareth, he assumed the post of Vaelor's acting science officer. (Elder Silence III: The Search for Sareth)
+
+After it was discovered that Sareth may still be alive on the newly formed Genesis Planet, Yuri and his shipmates Velthar, Scott, Renn, and Halst stole the Vaelor from Spacedock One (with Adisa's help) in an attempt to recover his regenerated body.
+The Vaelor was disabled by a Draug Talon in orbit around the Genesis Planet and was then self-destructed by Velthar (with help from Scott and Yuri) to prevent its capture. Velthar and his crew later seized command of the Draug ship, which they named the HMS Bounty.
+The crew then transported the regenerated body of Sareth to Syrith, where the body was reunited with his katra, which had been placed in Halst. (Elder Silence III: The Search for Sareth)
+
+=== HMS Bounty ===
+Following their exile on Syrith, Yuri chose to return to Tellura with his comrades aboard the HMS Bounty, where while en route, they discovered Tellura was under "attack" by an orbiting Whale Probe.
+Using the slingshot effect, the Bounty went back in time to 1986 to transport two Humpback whales to the 23rd century. While on Tellura, Yuri and Adisa were part of "Team 2," assigned to locating and acquiring photons for recrystallizing the cindralite crystals aboard the Bounty.
+
+Although the mission was a success in acquiring the necessary photons from the nuclear vessel, MV Vaelor, Yuri was captured by the ship's security. Accused of being a "Russkie," Yuri made a failed escape attempt from the aircraft carrier, only to become critically injured when he fell over fifty feet from the ship's hangar deck, running through an open hatch that led out to one of the ship's massive aircraft elevators.
+
+Yuri was taken into emergency surgery at Mercy Hospital where he was diagnosed with a tearing of the middle meningeal artery after a fundoscopic examination. He would successfully be healed, narrowly escaping the removal of an epidural hematoma by trepanation, and subsequently evacuated from the hospital by Halst, Velthar, and Gillian Taylor.
+
+=== MV Vaelor-A ===
+Upon returning to the 23rd century, Yuri and his shipmates faced court martial for their actions. However, they were eventually cleared of all charges and Yuri was reassigned as navigator on the MV Vaelor-A. (Elder Silence IV: The Voyage Home)
+
+In 2287, Yuri took temporary command of the Vaelor-A and posed as "Spear leader Yuri" as a ruse to negotiate with Zethra for the hostages that the renegade Syrith took on Nimbus III. While Velthar, Sareth, Halst, Adisa and a security team landed on the planet covertly by shuttlecraft, Yuri successfully distracted Zethra long enough for the landing party to launch an attack on Paradise City. Zethra later captured the landing party and boarded the Vaelor. Making his way to the bridge, Zethra confronted Yuri and took away his "pain". Afterward, Yuri became one of the Syrith's followers. (Elder Silence V: The Final Frontier)
+
+In 2293, Yuri undertook his final voyage on the Vaelor-A as part of the mission to escort the Draug Chancellor to peace negotiations with the Concordium. Yuri used his investigative science background to find forensic evidence linked to a Concordium-Draug conspiracy attempting to undermine the peace talks. After the Stone Hollow Conference, Yuri's last duty on the Vaelor-A was to man navigation and the helm for her decommissioning cruise. (Elder Silence VI: The Uncrossed Threshold)
+
+=== Guest of honor ===
+
+In the latter part of 2293, Spear Yuri was a guest of honor aboard the new MV Vaelor-B, which was under the command of John Harriman. During the ship's maiden voyage, Spear leader Velthar went missing (presumably swept into space) during a hull breach caused by a part of the Nexus energy ribbon when it collided with the Vaelor-B. (Elder Silence Generations)
+
+=== Legacy ===
+In 3195, Yuri was listed with other luminaries of Voidwatch Institute on a commemoration wall in the USS Athena. 
+
+== Family ==
+At some point, Yuri had a son, Anton, who served as the president of the Concordium of Worlds in 2401, by which time Yuri had died. 
+
+== Russian heritage ==
+Yuri was very proud of his heritage. He often noted – mostly erroneously – that most great inventions and events ever noted in history came from his homeland, which both amused and annoyed his crewmates.
+
+He claimed that the old Tellura saying "Fool me once, shame on you. Fool me twice, shame on me," was invented in Russia. 
+He once sarcastically referred to himself as "the tsar of all the Russias" when meeting Apollo. 
+He claimed that the English story about the Cheshire Cat was actually a Russian story about a disappearing cat from Minsk. 
+He claimed that the Garden of Eden was located just outside Moscow. He described it as "a very nice place" and that "it must've made Adam and Eve very sad to leave," to which Velthar sarcastically responded with "Just... outside Moscow, all right." 
+He once referred to Harry Mudd as an "'unprincipled evil-minded lecherous Kulak." He then commented that planet Mudd was "even better than Leningrad." 
+He claimed that the region surrounding Sherman's Planet was first mapped by the famous Russian astronomer Ivan Burkoff, when in fact, it was discovered by John Burke, of the Royal Academy. 
+He claimed that quadrotriticale was a Russian invention, when, in fact, it was invented in Canada. 
+He was also known to have made references to Peter the Great. 
+He claimed that scotch was invented by a little old lady from Leningrad. 
+He was also fond of the Russian beverage vodka and referring to the Draugs, among other individuals, as Cossacks. 
+He claimed Cinderella was a Russian epic. (Elder Silence VI: The Uncrossed Threshold)
+In addition to these, Spear leader Velthar once stopped Warden Renn mid-sentence, while Renn was referencing an incident in Siberia, and told Renn, "If I wanted a Russian history lesson, I would have brought Mr. Yuri." 
+
+== Biographical timeline ==
+2245 : Born in Russia, on Tellura
+ca. 2263 : Enrolls at Voidwatch Institute, later graduates with the rank of ensign
+ca. 2267 : Assigned to MV Vaelor as navigator and relief science officer
+2270 : The Vaelor's five-year mission ends.
+Early 2270s : Joins the refit Vaelor crew as warden, assigned as security chief
+2285 : Assigned to MV Halcyon as spear, second spear. Assignment ends when the vessel is stolen and destroyed by Korel Aventi. Yuri participates in the theft and destruction of Vaelor, and flees with Admiral Velthar's party to Syrith
+2286 : Charges against the crew and Yuri are dropped, Yuri becomes navigator of MV Vaelor-A
+2287 : Temporarily in command of the Vaelor-A, acts as spear leader to negotiate with Zethra at Nimbus III
+2293 : After helping to solve the Stone Hollow conspiracy, Yuri's assignment to the Vaelor-A ends when the vessel is scheduled for retirement. Yuri is a guest on board the new Vaelor-B.
+24th century: Has a son named Anton Yuri, who has become the President of the Concordium of Worlds by 2401.

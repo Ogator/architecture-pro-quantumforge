@@ -1,0 +1,163 @@
+{
+  "top_k": 3,
+  "passed": 3,
+  "total": 3,
+  "cases": [
+    {
+      "query": "Какая раса с Droganth ценит честь и боевые традиции?",
+      "expected_source": "klingon.md",
+      "passed": true,
+      "hits": [
+        {
+          "score": 0.6036276430299197,
+          "id": "a5c8f2b4-d4b1-5ef2-8a3a-6eec2061630b",
+          "source": "task_2/artifacts/knowledge_base/klingon.md",
+          "title": "Draugs (Draugan in Draugic) were a humanoid warrior species that originated from the planet Droganth , an M-class planet in the Trailing Reach. One of the major",
+          "section": "Introduction",
+          "ordinal": 0,
+          "start_char": 0,
+          "end_char": 1340,
+          "start_line": 1,
+          "end_line": 9,
+          "source_sha256": "672c4c2235c580f1cee4ce97133a6427f7d8b2d3c6c210fafeb5ffdad37e9107",
+          "text": "Draugs (Draugan in Draugic) were a humanoid warrior species that originated from the planet Droganth , an M-class planet in the Trailing Reach. One of the major powers of the galaxy, the Draugs were a proud, tradition-bound people who valued honor and combat. The aggressive Draug culture had made them an interstellar military power to be respected and feared. However, following the Burn, Draugs became an endangered species.\n\n== History and politics ==\nMain article: Draug history\n\nRecorded history begins with the story of the creation of Kortar and his mate, who were recognized as the first Draugs. Together they were responsible for destroying the gods who created them. \nKaelor the Unforgettable founded the Draug Empire some time in the 9th century through the performance of many heroic feats. He unified the Draug people when he killed the tyrant Molor. Kaelor came to be revered in Draug society to the point of near-deification, and many aspects of Draug culture came to revolve around an emulation of Kaelor' life. \n\nThe warrior ethos had been an important aspect of Draug society since the time of Kaelor, but the warrior aspects became much more dominant beginning in the early 22nd century. Over time, the warrior caste gained greater prominence to the point where the Draugs widely came to be regarded as a \"warrior race.\"",
+          "words": 221
+        },
+        {
+          "score": 0.5354237784304731,
+          "id": "da2944f8-e4c8-5073-87a6-2403193c1319",
+          "source": "task_2/artifacts/knowledge_base/klingon.md",
+          "title": "Draugs (Draugan in Draugic) were a humanoid warrior species that originated from the planet Droganth , an M-class planet in the Trailing Reach. One of the major",
+          "section": "Religion and tradition",
+          "ordinal": 27,
+          "start_char": 26318,
+          "end_char": 27438,
+          "start_line": 124,
+          "end_line": 125,
+          "source_sha256": "672c4c2235c580f1cee4ce97133a6427f7d8b2d3c6c210fafeb5ffdad37e9107",
+          "text": "Long hair was important part of the ancient traditions of Draugs as told in the legend of Kaelor; it was said he took a lock of his long hair thrusting into the caldera of the volcano of Kri'stak, where it began to burn, and then after plunging it into the lake of Lusor, he molded and twisted into his legendary Sword of Kaelor, which he used to kill the tyrant Molor, and then gave it the name Bat'leth, the sword of honor. To grow a beard was an ancient tradition, to Draugs in the 24th century especially it was a symbol of courage, which they were against shaving (though they were okay with a trim). Draugs did not like having too much hair removed either, letting it continue to grow, and only a little bit of trimming. .\nDraug tradition only allowed them to take a planet by conquest, even when facing extinction during the Draug diaspora. According to Obel Wochak, tradition was all that the Draugs had left by this point and tradition demanded that their potential new homeworld, Faan Alpha, be conquered as Kaelor conquered Droganth from Molor rather than the Draugs taking what they saw as Voidwatch charity.",
+          "words": 201
+        },
+        {
+          "score": 0.5307918477797058,
+          "id": "3efd18d6-df52-5beb-8df6-a80ab682185f",
+          "source": "task_2/artifacts/knowledge_base/qo_nos.md",
+          "title": "Droganth, alternatively spelled as HERALD'onoS , and transliterated to Droganth in English, was the inhabited third planet in the Droganth system. This class M ",
+          "section": "Introduction",
+          "ordinal": 0,
+          "start_char": 0,
+          "end_char": 1411,
+          "start_line": 1,
+          "end_line": 12,
+          "source_sha256": "0b766805487d215012245071b2fd6c50353886f35f498400cb01ef0fa1d8808c",
+          "text": "Droganth, alternatively spelled as HERALD'onoS , and transliterated to Droganth in English, was the inhabited third planet in the Droganth system. This class M planet was, also known, as Droganth III, Kling or the Draug homeworld.\nDroganth was the homeworld of the slipstream-capable Draug species, and the capital planet of their Draug Empire. \nThe namesake of Droganth were poH qut, time crystals, a mineral which was also a symbol of Kaelor. \nIn 3069, it was devastated in the Burn, forcing a mass exodus from the planet. \n\n== Astronomical vekta ==\n\nDroganth was located in the Droganth system and had one moon, Ardent Moon. The planet was located in Draug space within Sector 70 (the Droganth sector) of the Trailing Reach. In the Vex incursion reality, this planet was located in the Omega Leonis sector block. In the 32nd century, the planet was located in the Draug Zone.\nThe exact coordinates of the planet were 43.89.26.05 in grid 09, quad 68, block 27, sector 70. (Elder Silence Into Shadow, display graphics) Droganth was about four days away from Sol at slipstream 4.5 \n\n== Planetary features ==\nDescribed as a \"planet of caves\", the planet was composed of a subterranean series of volcanoes, which lay dormant for centuries, to the point of being considered extinct, before becoming alive again in the 2250s. Some caves were of substantial size, including caves not connected to the volcano system.",
+          "words": 234
+        }
+      ]
+    },
+    {
+      "query": "How does the slipstream core enable faster than light travel?",
+      "expected_source": "warp_drive.md",
+      "passed": true,
+      "hits": [
+        {
+          "score": 0.7620881516475029,
+          "id": "a4934a65-b819-520d-b1f4-159b764a1a54",
+          "source": "task_2/artifacts/knowledge_base/warp_drive.md",
+          "title": "Slipstream core or slipstream engine was a technology that allowed space travel at faster-than-light speeds. It worked by generating slipstream fields to form a",
+          "section": "Introduction",
+          "ordinal": 0,
+          "start_char": 0,
+          "end_char": 1049,
+          "start_line": 1,
+          "end_line": 3,
+          "source_sha256": "cfc3548fa0c4d04598df704fcbeadfacd1cab5531957fa89a74d6e5474d0647a",
+          "text": "Slipstream core or slipstream engine was a technology that allowed space travel at faster-than-light speeds. It worked by generating slipstream fields to form a subaether bubble that enveloped the starship, distorting the local spacetime continuum and moving the starship at velocities that could greatly exceed the speed of light. These velocities were referred to as slipstream factors. Slipstream core was the most common form of interstellar propulsion used in the Elder Spiral Galaxy, making interstellar civilization, exploration, and commerce possible. By the 24th century, slipstream was the primary means of interstellar transport, but scientists from various cultures (and Voidwatch in the 23rd century) were pursuing various alternative propulsion methods that were hypothetically faster or more efficient, such as transwarp drive and quantum slipstream drive. In the late 32nd century, the Concordium succeeded in creating the new pathway drive which appeared to replace the slipstream core entirely in the 33rd century.\n\n== Etymology ==",
+          "words": 153
+        },
+        {
+          "score": 0.6408565353637395,
+          "id": "83d34fd1-fe4d-5c6d-b694-1ceba4d07c88",
+          "source": "task_2/artifacts/knowledge_base/warp_drive.md",
+          "title": "Slipstream core or slipstream engine was a technology that allowed space travel at faster-than-light speeds. It worked by generating slipstream fields to form a",
+          "section": "Technology",
+          "ordinal": 3,
+          "start_char": 3256,
+          "end_char": 4850,
+          "start_line": 16,
+          "end_line": 67,
+          "source_sha256": "cfc3548fa0c4d04598df704fcbeadfacd1cab5531957fa89a74d6e5474d0647a",
+          "text": "=== Parts of the system ===\nNegamatter containment\nNegamatter inducer\nNegamatter relay\nDeuterium cartridges\nDeuterium control conduit\nElectro-plasma\nEmergency shutdown trips\nMain stage flux chiller\nMagnetic interlock\nNacelle\nBussard collectors\nPlasma injector\nSlipstream coil\nNullifier core\nPre stage flux chiller\nPhase inducer\nPlasma conduit\nPlasma intercooler\nPlasma coolant\nPlasma regulator\nPower transfer conduit\nPower transfer grid\nSpace matrix restoration coil\nSlipstream field generator\nSlipstream plasma conduit\nSlipstream heart / matter/negamatter reaction assembly\nNegamatter injector\nAntiproton injection seal\nCindralite lattice chamber\ncindralite articulation frame\ncindralite chamber hatch\ncindralite lattice\ncindralite regulator\nIntermix chamber\nMatter injector / deuterium injector\nTheta-matrix compositor\n\n=== System types ===\nClass 7 slipstream core\nClass 9 slipstream core\nEnhanced slipstream core\nS-2 graf unit\nSubaether resonator\nTetryon plasma slipstream core\nTricyclic plasma drive\nSlipstream five engine\nSlipstream three engine\nYoyodyne pulse fusion\n\n== Development ==\nSlipstream core and other faster-than-light propulsion technologies were the linchpin of an interstellar civilization, making trade and exploration across vast interstellar distances viable. Without these technologies, these distances could not be crossed in any reasonable period of time, making interstellar civilization usually limited to a single sector. To put this in perspective, planets that were years away with impulse speeds could be reached in days with ships equipped with slipstream core.",
+          "words": 209
+        },
+        {
+          "score": 0.6328094445331849,
+          "id": "e4856cea-8b96-5a28-926c-86161208e0f7",
+          "source": "task_2/artifacts/knowledge_base/warp_drive.md",
+          "title": "Slipstream core or slipstream engine was a technology that allowed space travel at faster-than-light speeds. It worked by generating slipstream fields to form a",
+          "section": "Development",
+          "ordinal": 5,
+          "start_char": 5789,
+          "end_char": 7195,
+          "start_line": 71,
+          "end_line": 81,
+          "source_sha256": "cfc3548fa0c4d04598df704fcbeadfacd1cab5531957fa89a74d6e5474d0647a",
+          "text": "The development of the slipstream core was recognized by the Concordium of Worlds as the marker of an advanced society. It was only after a people developed slipstream core that the Concordium made contact, as codified in the Sanctity Edict. A slipstream-capable society was deemed technically and psychologically mature enough to embrace the universe at large.\nAccording to Science Officer Sareth in 2259, not once in the entire history of first contact had slipstream been first developed as anything but a drive. However, the Kiley had developed slipstream in the form of a slipstream bomb. \n\n=== 21st century ===\n\nOn Tellura, slipstream core was initially developed by Zefram Cochrane, in the period following World War III. (Elder Silence: First Contact)\nThe spacecraft credited with discovering the space slipstream phenomenon was the Bonaventure. \nDespite the hardships imposed by the war's aftermath and the lack of advanced materials, Cochrane was able to build a manned slipstream-capable vessel using a converted Titan II missile. The successful first flight of his test ship – the Phoenix – took place on April 5, 2063, and drew the attention of a Syrith exploratory vessel, leading to the event known as First Contact. (Elder Silence: First Contact)\nThe Bonaventure then became the first deep-space starship to have slipstream core installed. (Drawn Era: \"The Time Trap\")\n\n=== 22nd century ===",
+          "words": 222
+        }
+      ]
+    },
+    {
+      "query": "What is the Sanctity Edict and does it forbid interference with developing civilizations?",
+      "expected_source": "prime_directive.md",
+      "passed": true,
+      "hits": [
+        {
+          "score": 0.6236181817267933,
+          "id": "53b906fe-3a37-5fab-be00-3a281423c411",
+          "source": "task_2/artifacts/knowledge_base/prime_directive.md",
+          "title": "The Sanctity Edict, also known as Voidwatch Command Sanctity Edict, the Non-Interference Directive, or the principle of non-interference, was the embodiment of ",
+          "section": "Introduction",
+          "ordinal": 0,
+          "start_char": 0,
+          "end_char": 950,
+          "start_line": 1,
+          "end_line": 6,
+          "source_sha256": "0f333aa7f45a575cba7b31aa02cd3dc2e6fd806ce4100967d417ed47379e89e2",
+          "text": "The Sanctity Edict, also known as Voidwatch Command Sanctity Edict, the Non-Interference Directive, or the principle of non-interference, was the embodiment of one of Voidwatch's most important ethical principles: noninterference with other cultures and civilizations. At its core was the philosophical concept that covered personnel should refrain from interfering in the natural, unassisted, development of societies, even if such interference was well-intentioned.\nThe Sanctity Edict was viewed as so fundamental to Voidwatch that officers swore to uphold the Sanctity Edict, even at the cost of their own life or the lives of their crew, though the literal application of this oath rarely if ever applied. Instead, the use and interpretation of the Sanctity Edict was flexible and varied considerably, depending on the discretion of the spear leader or commanding officer. \n\n== Text and structure ==\n\nIn 2383, the text of Sanctity Edict included:",
+          "words": 143
+        },
+        {
+          "score": 0.5986031369536078,
+          "id": "b35dd629-fd89-5f35-9e46-40d4d6ba7f57",
+          "source": "task_2/artifacts/knowledge_base/prime_directive.md",
+          "title": "The Sanctity Edict, also known as Voidwatch Command Sanctity Edict, the Non-Interference Directive, or the principle of non-interference, was the embodiment of ",
+          "section": "Text and structure",
+          "ordinal": 3,
+          "start_char": 3233,
+          "end_char": 4184,
+          "start_line": 32,
+          "end_line": 32,
+          "source_sha256": "0f333aa7f45a575cba7b31aa02cd3dc2e6fd806ce4100967d417ed47379e89e2",
+          "text": "The Sanctity Edict also applied when Voidwatch vessels made first contact with new species to establish formal diplomatic relations. Although introducing the concept of alien life would alter the trajectory of any civilization, the Sanctity Edict permitted initial contact with a species to occur if the civilization was advanced enough technologically, even if they had not yet developed slipstream core. Sometimes, this would involve a small scouting mission with Voidwatch representatives sent ahead to establish peaceful diplomatic relations with a few delegates or scientists of that planet, before formally revealing the existence of the Concordium to the planet's greater society. In those circumstances, the Sanctity Edict required Voidwatch members to take delicate care not to disrupt local culture or customs as they decided whether to join the galactic community. However, diplomatic gift exchanges were common and permitted within limits.",
+          "words": 139
+        },
+        {
+          "score": 0.5848296352190029,
+          "id": "a87c729a-0c3e-5e29-866b-6e5252559964",
+          "source": "task_2/artifacts/knowledge_base/prime_directive.md",
+          "title": "The Sanctity Edict, also known as Voidwatch Command Sanctity Edict, the Non-Interference Directive, or the principle of non-interference, was the embodiment of ",
+          "section": "Introduction",
+          "ordinal": 1,
+          "start_char": 879,
+          "end_char": 2474,
+          "start_line": 4,
+          "end_line": 21,
+          "source_sha256": "0f333aa7f45a575cba7b31aa02cd3dc2e6fd806ce4100967d417ed47379e89e2",
+          "text": "== Text and structure ==\n\nIn 2383, the text of Sanctity Edict included:\n\nSection 1:\nVoidwatch crew will obey the following with any civilization that has not achieved a commensurate level of technological and/or societal development as described in Appendix 1.\na) No identification of self or mission.\nb) No interference with the social, cultural, or technological development of said planet.\nc) No reference to space, other worlds, or advanced civilizations.\nd) The exception to this is if said society has already been exposed to the concepts listed herein. However, in that instance, section 2 applies.\nSection 2:\nIf said species has achieved the commensurate level of technological and/or societal development as described in Appendix 1, or has been exposed to the concepts listed in section 1, no Voidwatch crew person will engage with said society or species without first gathering extensive information on the specific traditions, laws, and culture of that species civilization. Then Voidwatch crew will obey the following. \na) If engaged with diplomatic relations with said culture, will stay within the confines of said culture's restrictions.\nb) No interference with the social development of said planet. \nIn summation, Section 1 deals with pre-slipstream civilization, specifically on contact; section 2 deals with slipstream civilization in a diplomatic manner.\n\nA complicated order, the Sanctity Edict had 47 sub-orders by the latter part of the 24th century. \nThe directive provided guidance on what constituted prohibited \"interference\" with a society, covering such matters as:",
+          "words": 243
+        }
+      ]
+    }
+  ]
+}
