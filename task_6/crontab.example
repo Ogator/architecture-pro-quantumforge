@@ -1,0 +1,32 @@
+# Example crontab configuration for automatic RAG index updates
+#
+# Installation:
+#   1. Edit this file with your actual paths
+#   2. Copy the line to your crontab: crontab -e
+#   3. Save and exit
+#
+# Cron format:
+#   minute hour day month weekday command
+#
+# Examples:
+
+# Update index daily at 3:00 AM
+0 3 * * * /usr/bin/python3 /home/ogator/Projects/Yandex_Practicum/architecture-pro-quantumforge/task_6/tools/update_index.py >> /home/ogator/Projects/Yandex_Practicum/architecture-pro-quantumforge/task_6/artifacts/logs/cron.log 2>&1
+
+# Update index every hour
+# 0 * * * * /usr/bin/python3 /home/ogator/Projects/Yandex_Practicum/architecture-pro-quantumforge/task_6/tools/update_index.py >> /home/ogator/Projects/Yandex_Practicum/architecture-pro-quantumforge/task_6/artifacts/logs/cron.log 2>&1
+
+# Update index every 15 minutes (for testing)
+# */15 * * * * /usr/bin/python3 /home/ogator/Projects/Yandex_Practicum/architecture-pro-quantumforge/task_6/tools/update_index.py >> /home/ogator/Projects/Yandex_Practicum/architecture-pro-quantumforge/task_6/artifacts/logs/cron.log 2>&1
+
+# Update index on weekdays at 9 AM and 6 PM
+# 0 9,18 * * 1-5 /usr/bin/python3 /home/ogator/Projects/Yandex_Practicum/architecture-pro-quantumforge/task_6/tools/update_index.py >> /home/ogator/Projects/Yandex_Practicum/architecture-pro-quantumforge/task_6/artifacts/logs/cron.log 2>&1
+
+# IMPORTANT NOTES:
+# 1. Use absolute paths for both python and script
+# 2. Find your python path: which python3
+# 3. Redirect stdout and stderr to log: >> file.log 2>&1
+# 4. Test manually before adding to cron: python3 /path/to/update_index.py
+# 5. Check cron is running: systemctl status cron (Linux) or ps aux | grep cron (macOS)
+# 6. View your crontab: crontab -l
+# 7. Remove all cron jobs: crontab -r

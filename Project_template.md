@@ -573,6 +573,81 @@ python task_5/tools/add_to_index.py <путь_к_файлу.md>
 
 ---
 
+## Задание 6. Автоматическое обновление базы знаний
+
+### Реализация
+
+Полностью автоматизированный процесс мониторинга директории с документами и обновления векторного индекса.
+
+**Источник данных:** локальная директория `task_6/watch_dir/` (может быть расширен до S3, Git, RSS)
+
+**Процесс обновления:**
+1. Скрипт `update_index.py` сканирует директорию на наличие `.md` файлов
+2. Для каждого файла вычисляется SHA256 хеш
+3. Новые/изменённые файлы (по хешу) передаются в `add_to_index.py`
+4. Файлы разбиваются на чанки → создаются эмбеддинги → обновляется Qdrant
+5. Состояние (хеши файлов) сохраняется в `update_state.json`
+6. Операция логируется в `logs/update.log` (JSON lines format)
+
+**Планировщик:** cron (Linux/macOS) или Task Scheduler (Windows). Пример: ежедневно в 03:00.
+
+**Инкрементальность:** обрабатываются только новые/изменённые файлы. Повторный запуск на неизменённых данных не создаёт дубликатов.
+
+**Диаграмма:** PlantUML диаграмма архитектуры в `task_6/artifacts/diagrams/architecture.puml` показывает полный поток данных от источника до индекса.
+
+Код: `task_6/tools/update_index.py` — основной скрипт обновления.
+
+### Настройка автоматического запуска
+
+**Linux/macOS (cron):**
+```bash
+# Откройте crontab
+crontab -e
+
+# Добавьте строку для ежедневного запуска в 03:00
+0 3 * * * /usr/bin/python3 /path/to/task_6/tools/update_index.py >> /path/to/task_6/artifacts/logs/cron.log 2>&1
+```
+
+**Windows (Task Scheduler):**
+1. Create Basic Task → "RAG Index Update"
+2. Trigger: Daily at 03:00
+3. Action: `python.exe` с аргументом `/path/to/task_6/tools/update_index.py`
+
+### Запуск
+
+```bash
+# Ручной запуск (тестирование)
+python task_6/tools/update_index.py
+
+# Добавить тестовый документ
+echo "# Test\nContent" > task_6/watch_dir/test.md
+python task_6/tools/update_index.py
+
+# Проверить логи
+cat task_6/artifacts/logs/update.log | jq
+
+# Проверить состояние
+cat task_6/artifacts/update_state.json
+
+# Настроить cron (см. crontab.example)
+crontab -e
+```
+
+**Пример лога:**
+```json
+{
+  "timestamp": "2025-01-17T03:00:15",
+  "files_added": ["new_article.md"],
+  "files_updated": ["changed_doc.md"],
+  "files_removed": [],
+  "errors": []
+}
+```
+
+Подробности: [task_6/README.md](task_6/README.md), диаграмма: [task_6/artifacts/diagrams/architecture.puml](task_6/artifacts/diagrams/architecture.puml)
+
+---
+
 ## Быстрый старт проекта
 
 Полный пайплайн от установки до запуска RAG-бота:

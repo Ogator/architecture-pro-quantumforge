@@ -1,0 +1,102 @@
+@startuml
+!theme plain
+title Automatic RAG Knowledge Base Update Pipeline
+
+skinparam componentStyle rectangle
+skinparam defaultTextAlignment center
+
+' Data sources
+component "watch_dir/\n(Local Directory)" as WatchDir #LightBlue
+note right of WatchDir
+  Contains .md files
+  User adds/updates files here
+end note
+
+' Optional external sources
+component "External Sources\n(Optional)" as ExternalSources #LightGray {
+  [S3 Bucket]
+  [Git Repository]
+  [RSS Feed]
+  [API]
+}
+
+' Scheduler
+actor "Cron / Scheduler" as Scheduler #Orange
+
+' Main update script
+rectangle "Update Pipeline" as Pipeline #LightYellow {
+  component "update_index.py" as UpdateScript
+  component "State Tracker\n(update_state.json)" as State
+  component "add_to_index.py" as AddToIndex
+}
+
+' Processing components
+rectangle "Vector Index Processing" #LightGreen {
+  component "Text Splitter\n(RecursiveCharacterTextSplitter)" as Splitter
+  component "Embedding Model\n(BAAI/bge-m3)" as Embedder
+  component "Vector Store\n(Qdrant)" as Qdrant
+}
+
+' Storage
+database "Vector Index" as Index #Cyan {
+  file "chunks.jsonl"
+  file "vectors.npy"
+  file "qdrant/"
+  file "manifest.json"
+}
+
+' Logs
+storage "Logs & State" as Logs #Pink {
+  file "logs/update.log\n(JSON lines)"
+  file "logs/cron.log"
+  file "update_state.json\n(file hashes)"
+}
+
+' Flow
+ExternalSources -.down.> WatchDir : "fetch & sync\n(optional)"
+Scheduler -down-> UpdateScript : "triggers\n(e.g. daily at 3 AM)"
+WatchDir -down-> UpdateScript : "scans for\n.md files"
+
+UpdateScript -right-> State : "loads previous\nstate"
+State -left-> UpdateScript : "file hashes"
+
+UpdateScript -down-> AddToIndex : "for new/changed\nfiles"
+
+AddToIndex -down-> Splitter : ".md file"
+Splitter -down-> Embedder : "text chunks"
+Embedder -down-> Qdrant : "vectors +\npayload"
+
+Qdrant -down-> Index : "persists"
+
+UpdateScript -right-> Logs : "writes\noperation log"
+State -right-> Logs : "stores"
+
+note right of UpdateScript
+  **Logic:**
+  1. Scan watch_dir for .md files
+  2. Compute SHA256 hash
+  3. Compare with state file
+  4. If new/changed → add_to_index()
+  5. Update state file
+  6. Write log entry
+end note
+
+note bottom of Index
+  **Incremental Updates:**
+  - Qdrant: upsert (replace by ID)
+  - chunks.jsonl: append if new
+  - vectors.npy: append if new
+  - manifest.json: update counts
+end note
+
+note bottom of Logs
+  **Log format (JSON):**
+  {
+    "timestamp": "...",
+    "files_added": [...],
+    "files_updated": [...],
+    "errors": [...]
+  }
+end note
+
+@enduml
