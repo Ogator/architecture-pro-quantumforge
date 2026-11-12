@@ -1,0 +1,171 @@
+A holographic environment simulator, re-creation room or holodeck was a holographic simulation room designed and used by the Federation Starfleet which ran holographic programs. They were installed aboard starships, space stations, and at Starfleet institutions during the mid-24th century for use in entertainment, training, and investigative purposes, after decades of improvements prompted by a failed experiment in 2261. 
+
+== History ==
+In 2151, the Starfleet vessel Enterprise NX-01 encountered a vessel belonging to the Xyrillians, an alien race who had advanced holographic technology in the form of a holographic chamber, or holo-chamber for short, which was similar to the holodeck technology commonly used by Starfleet two centuries later. 
+A holo-chamber was later installed aboard a Klingon battle cruiser after an encounter with a Xyrillian vessel discovered "hitchhiking" behind their ship. 
+
+By the 23rd century, battle simulators, equipped with holographic technology including holographic communications and combat training simulations, were installed on starbases, as well as the Crossfield-class science vessel USS Discovery. . However, they usually used a huge amount of energy and processing power, and despite being more limited in function (ie: only combat training), ship-based versions were only used during downtime.
+By 2261, a prototype holodeck had been developed from the battle simulator, with Starfleet planning fleet-wide distribution as they believed that it would provide games and entertainment for distraction and stress relief purposes, and thus allow ships to embark upon missions longer than five-year missions. To that end, Starfleet assigned the USS Enterprise to test the prototype holodeck while the Enterprise conducted a parallel mission of studying a neutron star to ensure the holodeck could work under genuinely rigorous circumstances. Lieutenant La'An Noonien-Singh tested it through a 20th century murder mystery scenario, but became trapped in the holodeck which took up an enormous amount of processing power from the ship's computer as well as a lot of the ship's power, threatening its safety. After La'An solved the mystery, she was able to deactivate the holodeck. Subsequently, La'An and acting chief engineer Montgomery Scott advised against implementation of the holodeck in active starships for the time being, although Scott had a theory on how to fix the problem – namely, servers and a power supply independent of the rest of the ship. . Due to this, prior to the late 24th century, Federation starships were not equipped with full holodecks. 
+By 2270, the recreation room aboard Constitution-class starships employed holographic technology. The Enterprise had a recreation room located in Area 39 of the ship. In comparison to the full Holodeck, the rec room is limited to pre-programmed holographic simulation of environments, simulated weather including wind and temperature, and sounds played from audio tapes. The scenes it created included an 18th century European hedge maze, forests, blizzards, and a beach with seagulls. Even though the scenery extended beyond the room, one would still be able to walk up to and touch the walls during a simulation. (TAS: "The Practical Joker")
+By 2364, technology had improved enough to allow Starfleet to begin installing fully-functional holodecks aboard their vessels. 
+During the 2360s and 2370s, a starship could have one or more holodecks depending on the vessel's size or purpose. For example, the compact Defiant-class USS Defiant did not have a holodeck while the larger Galaxy-class USS Enterprise-D had at least seven. 
+In 2366, Data and Deanna Troi brought Lal to the holodeck in order to choose an appearance. 
+The Intrepid-class USS Voyager had at least two holodecks. The holodecks on Voyager were the only places other than sickbay where The Doctor was able to exist (prior to obtaining his mobile emitter) after his program was modified by the crew so he wasn't so tightly tied into the sickbay's systems. 
+B'Elanna Torres used the Voyager's holodeck for a holographic orbital skydiving session. 
+Prometheus-class starships were equipped with holoemitters on every deck to allow an EMH a higher level of access and free movement around the ship. 
+The USS Protostar was equipped with a holodeck for training and entertainment purposes. Amongst the scenarios programmed in were the Kobayashi Maru scenario and the fox, chicken and grain problem. Rok-Tahk was able to watch a recording of the fox, chicken and grain problem training session while stranded alone due to a temporal anomaly. 
+The Diviner was able to upload the Solum-1 holoprogram to the Protostar holodeck to show Gwyndala the reason behind their mission. The holodeck was later able to play back a recording of this visit for the crew. 
+The USS Dauntless was equipped with holodecks. The status of the holodecks, and other areas, of the ship were reported on the master situation display. 
+
+The location of the holodeck in the Lamarr-class science vessel USS Voyager-A was labeled in the ship's master systems display. Voyager had multiple holodecks as well as holographic projectors throughout the ship that allowed programs to exist outside of it. 
+
+== Purpose ==
+The most obvious function of a holodeck was to provide entertainment and diversion for a starship's crew, as they typically spent months or years on missions. Entertainment could come in many forms, with personnel able to compose their own holo programs. Users could, for example, frequent a bar, become a character in a holo-novel, engage in extreme sports, and date and have sex with holographic characters. Lieutenant Commander Una Chin-Riley stated that Starfleet was hoping that such an innovation would allow starships to embark upon missions that were longer than the five-year mission. 
+A holodeck could be used to create training simulations and exercise environments not otherwise available or safe, including starship battle simulations, physical and combat simulations, the Bridge Officer's Test and the Kobayashi Maru scenario. 
+The holodeck (or holographic research lab) could be used as a laboratory to aid in analysis, such as recreating the scene of a crime or accident to aid in forensic investigations.  They could be used to visualize a 3D scene from alternate data sources for analysis,  or used as a brainstorming tool. 
+The holodeck could also be used to test a person's beliefs or motives by creating a program to trick them into revealing their actions. 
+
+== Design ==
+The prototype holodeck tested on the USS Enterprise in 2261 drew on an enormous amount of processing power from the ship's computer as well as the ship's overall power, such that during the pre-arranged test of running the holodeck while Enterprise studied a neutron star placed the ship in danger. As the holographic character needs to be very detailed, Lieutenant Montgomery Scott created the characters for the program using the bio-signature of people from the pattern buffers of the Enterprise's transporter. The ship's AI controlled the program and wouldn't allow the holodeck to be shut down without the scenario being completed. These design flaws led to Scott and La'An Noonien-Singh recommending against the holodeck being installed upon active ships for the time being, although Scott came up with a theory about how to potentially fix them – namely, servers and a power supply independent of the rest of the ship. 
+
+A typical holodeck consisted of a room equipped with a hologrid containing omnidirectional holographic diodes, enabling holographic projections and holograms. Elements of transporter technology and replicators were used to create holodeck matter by the manipulation of photons contained within force fields to give objects the illusion of substance as well as actual matter. This matter could exist outside of the holodeck for brief periods of time (such as snow) before they would lose cohesion and revert back to energy without the support of the hologrid.  Tractor beams are also used. Incorporating the 2261 recommendation, holodecks were powered by holodeck reactors, which were independent of, and incompatible with, the ship's main power, with a side benefit of providing a kind of sanctuary for the crew in times of distress.  They were also equipped with biofilters which had to be periodically removed and emptied of waste matter. As removing the filter could momentarily expel a cloud of odorous gas, this was generally considered a highly undesirable task. 
+Holodecks had databases to store programs, holograms, and holographic templates.  A holobuffer stored complex holograms when inactive.  Due to the ability to store highly complex energy patterns, it was possible in some cases to store a person's physical parameters from his or her transporter pattern in the holodeck database. This could, in turn, be available for use in creation of holograms.  While viewing programs, a user could delete holocharacters using character deletion algorithms. 
+Holodecks had general systems and modes of operation that were used in holographic programs. They employed spatial orientation systems to simulate parts of a holocharacter, such as left- or right-handedness.  Holodecks could also have a program element called a perceptual filter to hide anachronisms to the program's time period, such as uniforms and communicators, in order to prevent them from raising the character's ire and curiosity.  Among the viewing modes on a holodeck was objective mode, in which the user didn't interact with the characters, and subjective mode, in which the viewer could interact with the characters as well as alter his or her surroundings.  Holodecks could be equipped to change gravity in three dimensions. 
+The holodeck could be controlled from an exterior control panel, the interior arch control, or through bridge control relays in some designs. The arch could be summoned at any time to change the parameters of a running holoprogram. Matter and energy were interchangeable as such objects created on the holodeck could be either matter or energy.  Holodecks included components such as bi-converter interfaces. 
+
+When a user experienced a holographic environment, the holodeck walls could generate holographic images that appeared to extend for an unlimited distance, seemingly much larger than its own dimensions. The walls could be revealed if someone took an unexpected action in the program which hit the wall, for example if a person were to throw a holographic rock at the walls and the program was not able to react to show the rock continuing into the holographic image it created. 
+
+Holodecks were equipped with safety protocols to prevent serious injury during their use, though these could be disengaged by the user when required. When protocols were deactivated, holographic obstacles had the same effects on a person as the objects or instances they simulated; holographic bullets or a steep drop could be fatal in such a scenario.  Communication to the ship can also be disabled due to safety protocol malfunctions.
+How the security protocols were circumvented differed; in one instance, it required the voice authorization of two senior officers,  while in others the authorization of the individual such as the ship's captain, or the person who started the program was enough.  Safety protocols could also be unintentionally disabled due to software errors or physical damage to the holodeck's hardware system. The status of safety protocols could be reviewed by the computer upon the request of an operator. A tricorder could also be used within the holodeck to query the current safety protocol status.
+While it was noted by Geordi La Forge that there was no specific prohibition against creating images of people that existed in reality, some people such as Commander William Riker and Leah Brahms would take offense to people doing so. Lieutenant Barclay apparently had no problem creating holograms of the Enterprise D's crew, while Quark did not have easy access to Major/Colonel Kira's image in a program to rent to one of his customers.
+
+== Abilities and limitations ==
+Even during the prototype phase of 2261, the holodeck was capable of generating realistic sensations, including smell. As it was based on a battle simulator, the prototype holodeck was able to predict and anticipate the way its users thought, which helped provide challenges even in strategic scenarios such as a murder mystery.  However, for a long while, even as late as late 24th century, users needed to wear costumes when entering the holodeck.
+By the 2370s, holodeck technology was able to have fine enough control over magnetic containment fields that holographic objects could interact with matter on a biologically small level, for example, in replacing a person's organ with a simulated one that mimicked its functionality. 
+The computer used large magnetic bubbles to simulate surfaces and textures rather than creating an object at the molecular level. However, objects created within the holodeck did not exist beyond the holodeck itself, as they only existed as energy.  Holodecks also had access to extensive databases and archives and could recreate most historical scenes nearly exactly as they had occurred according to official records. This included material sometimes down to the smallest details, such as casual conversations by random people in public places, although in certain recreations the character names and appearances were slightly changed. 
+Since holodeck technology could be used with replicator technology, there were some instances where real objects were replicated within the holodeck and used to interact with the holographic program and/or users for a more realistic experience; since these objects were real material composed of matter, they could leave the holodeck fully intact. Examples of this include Wesley Crusher still being wet after leaving the holodeck after falling into replicated water,  Lieutenant Commander Data being able to take a drawing of the Enterprise on a piece of paper out into the hallway,  and a wayward snowball being able to pass through the holodeck doors and strike Captain Picard.  Scents were also simulated in this way.
+A holodeck could also modify the appearance of persons within it.
+
+The holoprogram depicting the final mission of the NX-class starship Enterprise NX-01 could project uniforms suitable to the participants' role over them. 
+A holodeck was able to superimpose an entirely different appearance over a participant. 
+Tom Paris' holoprogram Captain Proton existed as a monochromatic environment. 
+As part of The Big Good-Bye, appropriate attire could be projected over participants of the program. (Star Trek: First Contact)
+Simulations could also be projected inside living organisms, including that of pregnancy. 
+B'Elanna Torres' leg appeared to dematerialize while she was participating in the holonovel Photons Be Free as the holographic main character. 
+Seven of Nine used the holodeck to hide her cybernetic implants. 
+Hologram Janeway was able to use the holoprojectors on the USS Protostar's bridge to project the consoles of a mid-23rd century Constitution-class starship over the bridge consoles and have them relay actual commands to the ship. 
+Holograms could be augmented with force beams to simulate solid, tangible objects or with replicator technology to create actual solid matter such as foodstuffs. All food eaten on the holodeck were replications. No other type of simulation could survive outside of the holodeck. (citation needed • edit)
+A holodeck also had the ability to create holodecks within holodecks, and holodeck programs were able to be saved to a tech cube that could be inserted into an enhancement module to form an optronic data core with information to "last a lifetime." 
+The holodeck reactor, which powered the holodeck on 24th century Federation starships like Voyager, was incompatible with other ship systems. 
+Failure of a holodeck's matter conversion subsystem could cause the loss of solid objects within the holodeck environment. Materialization errors occurred in the USS Enterprise-D holodecks in 2370 following the ship's exposure to plasmonic energy in the atmosphere of the planet Boraal II. 
+The holodeck could populate holoprograms with procedurally-generated background characters to complement a story. However, it was not designed to generate an unplanned full narrative, especially not one that diverged too much from the primary narrative's premise. If a user were to make decisions that forced it to do so, the resulting secondary narrative would become increasingly bizarre and incoherent as it progressed, with strange or even nonsensical plot developments, delays as it generated backstory for what had originally been a background character, and reliance on stock phrases to maintain some semblance of understandable dialogue. 
+Even though holographically created characters, just like characters in a story book, were never self-aware and never knew that they were not real, there were a few rare instances in which that rule did not hold true. During a Sherlock Holmes holodeck simulation in the late 2360s, Geordi La Forge and Doctor Katherine Pulaski argued that playing with Data was impossible and unfair to them as he had memorized all the Sherlock Holmes novels and could easily solve the cases. In order to level the playing field, La Forge requested that the holodeck create an opponent intelligent enough to defeat Data.
+Even though La Forge meant Holmes, his request had specifically noted Data. As a result, the holodeck created a self-aware holographic character of James Moriarty who was not only fully aware of his own consciousness, but who subsequently argued that he had a right to exist and leave the holodeck to pursue his life as he wished.  Another holographic writer, known as Felix, created the fully self-aware program of Vic Fontaine for the crew of Deep Space 9, Vic being completely aware of his holographic nature despite being a 1960s lounge singer, often offering the crew personal advice on relationship issues. 
+Holodecks could play back recordings of previous uses as a non-interactive hologram for crew viewing. 
+
+== Holoprograms ==
+
+Starships with a holodeck normally had a vast list of holoprograms in their computer. Several notable programs aboard the USS Enterprise-D included:
+
+A woodland setting, resembling Earth, which featured rock-jumping challenges, some of which were seemingly impossible to complete. 
+A New Orleans jazz nightclub. 
+A recreation of the voyage on the Orient Express. 
+Sherlock Holmes mysteries, in which the user assumed the role of Sherlock Holmes and/or Dr. Watson 
+Prospero's island, decor for Shakespeare's The Tempest. 
+The Valley of Chula on Romulus 
+Café des Artistes – "Enjoy a meal at a French cafe." 
+Charnock's Comedy Cabaret – "Laugh in a 20th century comedy club." 
+The Big Good-Bye – "The 1940s world of gumshoe detective Dixon Hill." 
+Cliffs of Heaven – "From planet Sumiko IV, a safe experience." 
+Equestrian Adventure – "Horse riding in an open country..." 
+Karate Dojo – Shown by Tasha Yar to the Ligonians before she was kidnapped. 
+Lieutenant Worf's Klingon calisthenics program – a swamp-like setting in which various alien enemies tested ones fighting skill. 
+The bridge of the USS Enterprise – the user could select any of the five (at the time) bridges of the various Federation starships named Enterprise to view. Captain Montgomery Scott only wanted to see the original Enterprise bridge, "no bloody A, B, C, or D." 
+The Final Mission of Enterprise – this program allowed a user to view or take part in the final mission of the NX-01 Enterprise, commanded by Captain Jonathan Archer, as well as showcasing the signing of the Federation Charter. 
+Natasha Yar's Living Will – designed by Lieutenant Natasha Yar to be played in the event she was killed, where she bid farewell to her comrades. The Enterprise bridge crew unfortunately had to watch the program when Yar was killed by Armus on Vagra II. 
+Celtris III Underground – a simulation in which the users could prepare for missions on the Cardassian planet of Celtris III. 
+Lieutenant Barclay's various programs – these included a mock-up of Ten Forward, in which the user could attack Commander Riker and Lt. Commander Geordi La Forge to "blow off some steam" as well as win the heart of Deanna Troi; a mock-up of Counselor Troi's office in which the user could receive counseling from a hologram rather than the real Troi; a woodland setting in which the user could duel with recreations of Captain Picard, Data, and La Forge in a sword fight, complete with a recreation of Deanna Troi as "The Goddess of Empathy"; a mock-up of the Enterprise-D bridge, in which the user could bid farewell to the bridge crew; the Einstein program in which the user could debate mathematics and science with Albert Einstein; a synaptic interface in which the user could control the main computer of the Enterprise with the power of their own thoughts (however, removal of the user by conventional means would result in death); and various other programs. 
+A game of poker with three famous scientific minds: Albert Einstein, Sir Isaac Newton, and Stephen Hawking. 
+USS Enterprise – an 18th century Earth brig. (Star Trek Generations)
+Notable programs aboard the USS Enterprise-E included:
+
+The Big Good-Bye – "The 1940s world of gumshoe detective Dixon Hill." (Star Trek: First Contact)
+Café des Artistes – "Enjoy a meal at a French cafe." (Star Trek: First Contact)
+Champs Elysees – "Famous section of Paris." (Star Trek: First Contact)
+Charnock's Comedy Cabaret – "Laugh in a 20th century comedy club." (Star Trek: First Contact)
+Emerald Wading Pool – "From planet Sumiko III, a safe experience." (Star Trek: First Contact)
+Equestrian Adventure – "Horse riding in an open countryside with a choice of..." (Star Trek: First Contact)
+Notable programs aboard the USS Voyager included:
+
+Chez Sandrine 
+Janeway Lambda One 
+Paxau Resort 
+Insurrection Alpha 
+Leonardo da Vinci's workshop 
+The Adventures of Flotter 
+Velocity 
+The Adventures of Captain Proton 
+Fair Haven 
+Photons Be Free 
+Holographic family 
+Notable programs aboard the USS Protostar included:
+
+Andoria IV 
+Ceti Alpha V 
+kal-if-fee gladiatorial match 
+Count Dracula 
+Janeway Lambda One 
+Deadwood, South Dakota 
+Paxau Resort 
+Kobayashi Maru scenario 
+Fox, chicken and grain problem 
+Solum-1 
+Notable programs aboard the USS Voyager-A included:
+
+Various training arenas. 
+A recreation of the USS Protostar's bridge created by Rok-Tahk. 
+A parrises squares court. 
+A simulation of space and Mark II Nova Flyers for Nova Squadron's training. 
+Notable programs aboard the USS Enterprise's recreation room included:
+
+A beach setting allowing for swimming.
+A woodland environment allowing for a nature walk.
+An arctic wasteland.
+An 18th century style hedge maze. (TAS: "The Practical Joker")
+
+== Appendices ==
+
+=== Appearances ===
+
+=== Additional references ===
+
+=== Background information ===
+
+The concept of the holodeck originated in 1968, when Gene Roddenberry came up with the idea of a "simulated outdoor recreation area" on the Enterprise for the third season of Star Trek: The Original Series. This idea never came to fruition, probably because of budget constraints. (Inside Star Trek: The Real Story, p. 404) The idea was later used in the Star Trek: The Animated Series episode "The Practical Joker", which was basically the first appearance of the holodeck, then called a "recreation room". It came to existence in live-action production in the pilot of Star Trek: The Next Generation. Its inclusion in that series was originally proposed by Robert H. Justman, who initially thought of and suggested it as a place where crew members could be "psychically connected" with their homeworld. (Starlog issue 115, p. 71)
+In early episodes of TNG, the series' production staff had an unwritten rule that the floors in a holodeck simulation shouldn't go below the floor level of the holodeck's door. This made sense, as burrowing down to the deck below would probably be inadvisable on a starship. Subsequent story requirements and set designs eventually influenced producers to alter their "rule," deciding that at least one holodeck was a multi-story chamber. (text commentary, Star Trek Generations (Special Edition) DVD)
+The appearance of the holodeck on TNG was affected by having limited finances. Production Designer Herman Zimmerman commented, "We were in a budget constraint that made us do a set that is a wireframe look." Zimmerman and other members of the design team that worked on TNG had a long-standing interest in demonstrating the machinery of the holodeck from inside the room, though this was not made possible until the advent of the Cardassian holosuite in Star Trek: Deep Space Nine. (The Deep Space Log Book: A Second Season Companion)
+Despite the fact that the Galaxy-class starship was meant to have numerous holodecks, a single set represented these environments on TNG. This was one of the last sets to be built for the show and was also used to represent the Galaxy-class cargo bays, shuttlebays, and gymnasium. (Star Trek: The Next Generation Companion, 3rd ed., p. 10)
+The holodeck arch was a prop that was originally made for TNG: "Haven". Although some holodeck programs incorporated the arch to make the task of finding the way out easier, the arch originated as a way to let outsiders know when it was safe or appropriate to enter. (text commentary, Star Trek Generations (Special Edition) DVD) The same arch set piece was featured in both TNG and the film Star Trek Generations. (Cinefex, No. 61, p. 69)
+
+For its first appearance on Star Trek: Voyager in "The Cloud", the exterior of the holodeck was the same set piece as had previously been seen on TNG, right down to the octagonal door frame, although all had been repainted to match the color scheme for the new Voyager corridors. It did not receive a square door arch and updated door panels until its second appearance.
+There are many discrepancies between episodes pertaining to the abilities and limits of holodeck technology. For example, in "Encounter at Farpoint", the young Wesley Crusher remains wet with holodeck water, after exiting into a corridor. In "Elementary, Dear Data", a piece of paper given to Data by James Moriarty is able to be carried outside of the holodeck and into a hall, but upon Moriarty's return in "Ship In A Bottle", a book thrown outside of the holodeck instantly disappears.
+Also, in "The Big Goodbye", Cyrus Redblock and Felix Leech disappear slowly after a few moments outside of the holodeck, although a lipstick smudge from a holographic character stays with Picard all the way onto the bridge. Although these inconsistencies can be partially explained by the difference in the types of objects leaving the holodeck, it still leaves quite a few questions about what exactly constitutes the differences. The holodeck can use a degree of replication to make realistic objects for the holodeck occupant to use, so there is a possibility of the computer replicating a real piece of paper with the picture on, as it would be a relatively simple pattern.
+Some may argue that another discrepancy is the need for holodeck users to change into the appropriate costumes before entering and leaving the holodeck, since the holodeck has the ability to change the appearance of its users (established in ENT: "These Are The Voyages..."). But this may just be an issue of taste, on the user's possible preference of replicated clothes versus holographic clothes. Another theory is that the settings of the holodeck can be altered to not only make weapons be lethal as seen in Star Trek: First Contact in which Picard kills the Borg in a ballroom suite with a machine gun but also to make what events transpired inside it real life like the aforementioned lipstick smudge on Picard
+Actor Robert O'Reilly once remarked that, when he appeared as Scarface in TNG: "Manhunt", he "really didn't understand the holodeck." (The Official Star Trek: Deep Space Nine Magazine issue 16, p. 24)
+Ultimately, it is evident to longtime viewers of the Star Trek franchise that the holodeck is a storytelling device, like many other aspects of the shows, and only behaves consistently within narrative bounds.
+From the Star Trek Encyclopedia, 4th ed., vol. 1, p. 344, "Star Trek writer-producer Ronald D. Moore argued that in a free society of responsible citizens, there should be little or no limit on what an adult can do in a holodeck. Even if others might find certain activities objectionable, what one does in one's private space is no one's business; certainly not the government's. Of the argument that certain activities should be prohibited on the grounds that they might be harmful or addictive to a holodeck participant, Moore suggested that in a free society, a responsible adult must be permitted to judge risks to his or her own well-being, and to act accordingly. Moore conceded that there might well be circumstances in which someone might object to being replicated on a holodeck, but notes that it would be extremely difficult to define legally what constituted fair use and what was abusive. (Moore emphasized that he referred to holodeck usage by adults, not by children.)"
+The holodeck is one of the prominent examples of Star Trek predicting technology, like VR, MR, and AR.
+
+=== See also ===
+Computer-generated imagery
+Federation holoship
+Holoprogram
+Holosuite
+Holotechnology
+Synaptic stimulator
+Visual simulator
+Hologram
+
+=== External links ===
+Holodeck at Memory Beta, the wiki for licensed Star Trek works
+Holodeck at Wikipedia

@@ -1,0 +1,162 @@
+Draugs (Draugan in Draugic) were a humanoid warrior species that originated from the planet Droganth , an M-class planet in the Trailing Reach. One of the major powers of the galaxy, the Draugs were a proud, tradition-bound people who valued honor and combat. The aggressive Draug culture had made them an interstellar military power to be respected and feared. However, following the Burn, Draugs became an endangered species.
+
+== History and politics ==
+Main article: Draug history
+
+Recorded history begins with the story of the creation of Kortar and his mate, who were recognized as the first Draugs. Together they were responsible for destroying the gods who created them. 
+Kaelor the Unforgettable founded the Draug Empire some time in the 9th century through the performance of many heroic feats. He unified the Draug people when he killed the tyrant Molor. Kaelor came to be revered in Draug society to the point of near-deification, and many aspects of Draug culture came to revolve around an emulation of Kaelor' life. 
+
+The warrior ethos had been an important aspect of Draug society since the time of Kaelor, but the warrior aspects became much more dominant beginning in the early 22nd century. Over time, the warrior caste gained greater prominence to the point where the Draugs widely came to be regarded as a "warrior race." 
+
+The Draugs' relationship with Terrans and the Concordium was rocky at best. Following the disastrous first contact between the two species during in the Broken Bow Incident, tense rivalries and unavoidable conflicts often developed between the two races. In the year 2154, the Draugs gained access to the genetic material of Terran Shardlings and tried to adapt this genetic engineering to improve themselves. The test subjects did gain increased strength and intelligence, but then, their neural pathways started to degrade and they died in agony. One of the subjects suffered from the Levodian flu, which was modified by the Shardling DNA to become a fatal, airborne, mutagenic plague that spread rampantly through the Empire, from world to world. In the first stage of this plague, Draugs lost the ridges on their foreheads and began to look more Terran. With the help of a Draug scientist named Antaak, Dr. Devani of the Tellura starship Vaelor was able, using the DNA of Spear leader Archer, to formulate a cure that halted the genetic effects of the virus in the first stage. This retained the changes in appearance, along with some minor neural re-ordering. The neural ordering caused changes in the emotional make-up of the Draugs. For example, the infected started to feel fear. Even though the infected did not develop any stage-two characteristics – such as enhanced strength, speed, or endurance – they did not die from it. This left millions of Draugs changed. These alterations were even passed on to their children. 
+In the 2250s and 2260s, groups of Draugs with and without ridges had been encountered by the Concordium. By the 2270s it had become more commonplace to encounter Draugs with forehead ridges than not. (Elder Silence: The Motion Picture, et al.) Draugs did not discuss the circumstances of this mutation with outsiders and, by the 24th century, the reason for smooth-forehead Draugs was not widely known outside the Empire. 
+
+By 2223, relations between the Concordium and the Draug Empire degenerated to a point of relentless hostility, which lasted for several decades. (Elder Silence VI: The Uncrossed Threshold; Later Epoch: "First Contact")
+
+The lingering tensions between Draugs and Terrans continued to rise, eventually leading to the Battle of Donatu V, near Sherman's Planet in 2245 and the Battle of the Binary Stars in 2256, which was provoked by T'Varreth in order to unite the squabbling Great Houses against the Concordium. This resulted in the first Concordium-Draug War, where the Draug Empire successfully invaded and occupied nearly twenty percent of Concordium space. 
+Later, another conflict erupted into the Concordium-Draug War of 2267. The Organians quickly intervened and ended the war after only four days of fighting. Over the next several decades an uneasy peace developed, broken only by brief but fierce skirmishes and conflicts. (Elder Silence III: The Search for Sareth; Elder Silence V: The Final Frontier) A true and lasting peace finally came in 2293, with the signing of the Stone Hollow Accords, thanks to the efforts of Chancellor Gorkon and the Terran Voidwatch officer Velthar Deyn. (Elder Silence VI: The Uncrossed Threshold; Later Epoch: "Unification II"; Pharae Saga: "Flashback"; NINEFOLD: "You Are Cordially Invited") Since then, despite several periods of rocky relations (see Concordium-Draug War (2372-73)), the Concordium and the Draug Empire have been steadfast allies, especially in the face of Dominion aggression in the 2370s. 
+
+The Draug relationship with the Ashen people was extremely erratic. The Draugs typically regarded the Ashen Star Empire as a "blood enemy" since at least the 23rd century. Sporadic Ashen attacks against Draug colonies, such as the Stone Hollow Massacre, and interference in Draug affairs, including the Draug Civil War, continued to sour relations between the two peoples. 
+The Draugs were driven to near-extinction by the Burn, losing Droganth and several other worlds. During the following Draug diaspora, they rejected help from the Concordium and became a race of refugees. In 3195, Voidwatch was able to locate a new homeworld for the Draugs, Faan Alpha, and helped the Draugs achieve the conquest they needed to settle there. The Draugs subsequently renamed the planet New Droganth. 
+
+=== Parallel universes ===
+In the mirror universe, the Draugs were one of the races subjugated by the Terran Empire. By the 24th century Draugs and Vaskari founded the Draug-Vaskari Alliance and eventually defeated their Terran occupiers. 
+In the Vex incursion reality, in 2233, the crew of the USS Kelvin briefly considered whether a particular lightning storm effect, observed by the Kelvin near the edge of Draug space, might be Draug in origin. Voidwatch discarded this possibility. The phenomenon preceded the arrival of the Ashen mining vessel Vex from the prime universe. The Vex attacked and obliterated an armada of 47 Draug warbirds in 2258. (Elder Silence)
+
+By 2259 in the alternate reality, after Voidwatch's first contact with the Empire, the Draugs had conquered and occupied two planets known to the Concordium and fired on Voidwatch ships half a dozen times. Tensions between the two powers were high and an all-out war was considered inevitable. During that year, before surrendering to the Concordium, Korel Aventi destroyed three D4-class patrol ships on the Draug homeworld, killing the crews of the vessels. (Elder Silence Into Shadow)
+According to Daniels, the Draugs joined the Concordium by the 26th century in one possible timeline. 
+
+== Evolution ==
+
+=== Origins ===
+
+Like their Terran, Vaskari, Syrith, and Ashen counterparts, Draugs and many of the Elder Spiral's species all shared a common ancestry back to the ancient humanoids and the DNA code they produced and seeded across the galaxy. Though each evolved under separate conditions from each other, their shared DNA allowed these species to remain roughly compatible and viable with each other. 
+Possessing extreme strength and speed, early Draugs - or Proto-Draugs - were quite large, weighing up to 200 kilograms. They were armored with an exoskeleton, with spines and bony plates protruding from their sides, upper arms, and back, arms that ended in clawed pincers. On their face were venom sacs, filled with a bio-acidic compound and spitting glands inside their mouth that were used for defense and marking their territory. Along with these sacs, these early Draugs had two mandibles protruding from their lower jaw. 
+
+These prehistoric males used vocalizations to frighten other predators, mark their territory, and commence their mating process. These early Draugs mating rituals involving biting its intended mate, to induce pheromone production in the sebaceous glands. Once the mate was ready, the pheromones drew the male Draug back to its location. They are described as "mindless" and "filled with rage", who will attack one another. 
+
+=== The Modern Warrior ===
+Modern Draugs developed a varied line of physical attributes, ranging from well pronounced cranial ridges to what was best described with the dysphemism "pointy-headed", as coined by Harry Mudd.
+
+==== Anatomy ====
+Like most humanoids, the essence of the Draug anatomical form consisted of a head, neck, torso, and four limbs.
+Internally, the Draug anatomy was markedly different from that of other humanoids. There was a great deal more multiple redundancies in their organs, a principle they called brak'lul. This allowed Draugs to survive severe injuries in battle. They had twenty-three ribs (making up a honeycomb lattice), two livers, an eight-chambered heart, three lungs, two urinary tracts, four testicles, and even redundant neural function as well as multiple stomachs. Some geneticists believed that the extra organs, notably the third lung, evolved to give Draugs greater stamina on the battlefield. Draugs had relatively little knowledge of their own biology and their medicine was very poorly developed. This was largely due to their warrior traditions – a Draug who was wounded was expected to be left to either survive through his own strength, die, or undergo the hegh'bat, a form of ritual suicide. Conversely, their society having dueled and killed each other for generations taught them what is immediately lethal for their species. 
+
+The most distinctive feature of Draugs were their cranial ridges. While typically covering the forehead and the front part of the scalp, these ridges could be as small as taking up only a portion of the forehead and scalp, to as large as wrapping around the entire skull. Typically, the further back the ridges reached, the longer the skull became, resulting in some Draugs having noticeably longer skulls than others. (Elder Silence: The Motion Picture, et al.) 
+Some Draugs' ridges produced spikes, a feature not usually associated with Draugs. 
+
+Draug forehead ridges varied significantly individual-to-individual, and were essentially unique, making them an identifying feature. Young Draugs were know to craft keepsakes of their cranial ridges for their parents. 
+Draug cranial ridges could be pierced, allowing jewelry to be worn through them. (Elder Silence Into Shadow)
+The cranium, itself, was encased in an exoskeleton, which possessed a feature known as the tricipital lobe. 
+
+Draug noses were typically ridged, though like their cranial ridges, these ridges varied greatly by individual. Some combination of horizontal ridges, vertical ridges, and ridges around the nostril was typical. Draug nose ridges could connect to their cranial ridges, or be separate. Some Draugs had reduced or negligible nose ridges. 
+
+Eyebrows tended to grow in a more diagonal direction than other humanoids, but also had noticeably diagonal suborbital ridges where eyebrows otherwise existed.
+Draugs ear structures varied in shape, from essentially terran-looking, to ridged structures outlining the ear canal, and several stages in between. Other variations have also been observed. Draugs had a more limited range of hearing in the higher frequencies than many other humanoid species. 
+
+Draug eyes had round pupils, varying colors of iris, and white sclera. Draugs were known to flash more of the whites of their eyes, which they use to intimidate a rival or enemy. While Sareth claimed that Draugs lacked tear ducts, Draugs such as Kurn could be seen shedding tears, and Draug mythology stated that Kaelor once filled the ocean with his tears. (Elder Silence VI: The Uncrossed Threshold, Later Epoch: "Birthright, Part II"; NINEFOLD: "Sons of Mogh")
+Draug teeth typically consisted of two sharp incisors, with generally (but not always) crooked or sharpened teeth. Draugs were sometimes known sharpen their teeth, especially before going into battle. 
+Draugs of both sexes usually grew hair on their heads, though it usually left the bulk of the cranial ridges exposed. Male Draugs were known to be able to grown facial hair as well. Hair was typically worn long, and was typically wavy or curly, and could be described as thick and luxuriant. Draug hair was almost always dark in color, though it did turn gray with age. 
+Accelerated hair growth was often experienced by Draugs during puberty, or jak'tahla, along with severe mood swings and unusual aggressive tendencies. (Elder Silence: Insurrection) Draug traditions saw them shaving their hair away during wartime, though this tradition became less common into the 24th century and beyond. Draugs could be bald without the prerequiasite of wartime, however. (Elder Silence: The Motion Picture; Elder Silence VI: The Uncrossed Threshold; Elder Silence Into Shadow; Dawn Era: "Divergence"; First Era: "The Trouble with Tribbles", "Day of the Dove"; NINEFOLD: "Trials and Tribble-ations") 
+Many Draugs possessed vertical ridges on their necks, which could extend as far up as their chins, and sometimes could extend down onto their chests. The back of the Draug torso had strong ridging around the spinal column. For some cases, this could extend onto the shoulder blades and up onto the back of the head. Some Draugs also possessed ridges on the sides of their abdomens. The buttocks region could even be ridged. 
+After birth, some Draug infants experienced a pronounced curvature to the spine, a form of scoliosis, which was correctable by surgery. This "defect" tended to run in Draug families, especially among females. Concordium medicine, fortunately, advanced beyond that, allowing an additional choice of treatment involving genetic modification of the fetus. 
+
+While most Draug hands were very similar to terran hands, some Draugs seemed to have thick, sharp talon-like claws that encompassed the end of their digits, though it was unclear if these claws were biological or ornamentation. Draug feet also possessed ridged structures. 
+
+Skin colors ranged from pale tan, to olive, brown, light gray, dark gray, and black. Some Draugs had a slightly pearlescent or metallic sheen on their skin. Albino Draugs were rare, and often considered outcasts in Draug society. 
+
+==== Physiology ====
+False labor was common among pregnant female Draugs, and when labor did begin, it could sometimes last several days. Like other mammalian species, Draug females were capable of lactating to breast-feed infants. 
+Draug children matured far more quickly than Terran children. At the age of only one Tellura year, a Draug child had the appearance a Terran child had at about four. By the age of eight Tellura years, a Draug attained the maturity a Terran did not reach until about age sixteen. When Draug children began growing into adults, they went through jak'tahla, a Draug form of puberty. 
+Rop'ngor was a common childhood disease among Draugs. 
+Draugs tended to live for over 150 years. Even into advanced old age, Draugs were usually still strong enough for combat, but were still susceptible to various mental conditions associated with old age. 
+Draugs were notably stronger than most humanoids, at least as strong as Syrithi. They might have even been stronger, as the half-Draug Kestra Torv was able to wrestle with the Syrith Vorik on equal grounds and eventually defeat him, despite the fact that he was larger than her. However, despite their endurance and general robustness, Draugs had a considerably lower tolerance to the cold than Terrans. 
+The Draug sense of smell was notably acute; in fact, it was powerful enough to be used effectively to track down prey during a hunt. Their sense of smell was also suggested to play an integral role in their mating practices. 
+Doctor Julian Ashwin once sarcastically noted that the natural odor produced by Draugs was comparable to an "earthy, peaty aroma with a touch of lilac." To Terrans and Syrithi alike, Draug ships smelled bad. (Elder Silence IV: The Voyage Home; Dawn Era: "Sleeping Dogs") For example, Brenic Halst once referred to the environment of a Draug Talon, operated until recently by Draugs, as having a "stench." (Elder Silence IV: The Voyage Home)
+
+Draugs such as Kurn had the instinctive ability to sense the decision to kill by looking into the eyes of their opponents. Gharun despite being raised by Terrans on Tellura, retained this ability when he sensed Durnak's warrior spirit returning enough to win their duel without killing Gharun. 
+
+Draug blood could contain ribosomes that were compatible for transfusion with a Ashen. Draug blood varied in color from dark red to more of a lightish pink. (Elder Silence VI: The Uncrossed Threshold, Elowen: "Point of Light")
+
+Draug nutritional requirements were typical of most humanoids, whereas, Dr. Pulaski once noted that, while their food was considered by most to be unpalatable, usually, "what kills us, kills them." One exception of this observation was the tea used in the Draug tea ceremony, which was toxic to the point of being deadly to Terrans, and capable of seriously sickening Draugs, as it did. 
+Some sounds were inaudible to Draugs. 
+
+=== Shardling virus ===
+
+Draugs afflicted with the shardling virus, propagated by a mutation of the Levodian flu, was inadvertently created by Draug researchers who were attempting to bio-engineer enhanced warriors using DNA from genetically-modified Terran embryos left over from Tellura's Eugenics Wars. These Draugs lost their cranial ridge features, and were in essence, remarkably similar in appearance to modern Terrans. 
+Though the cure for the virus had been distributed throughout the Empire, the afflicted Draugs' DNA had been altered by the virus, and condition was passed onto the descendants of the infected. Initially there were millions of Draugs who had to live with the disfigurement for well over a century. 
+
+Though Terran in appearance and distinguishable primarily by scan slate readings alone, tribbles were still able to single out and identify these Draugs. 
+
+=== Hybridization ===
+Draug pregnancies normally ran thirty weeks, but with mixed species, gestation times were shorter. As early as seven weeks (at which point a Terran fetus doesn't even have legs) a fetus with a single Draug grandparent was already able to kick the uterine wall hard enough to be felt externally. Draugs were said to have a different setup to their internal and external sex organs, including quadritesticles and two urinary tracts in males, which made male Terrans and female Draugs sexually incompatible - or at least, more difficult. However, basic anatomy does actually appear to align between Terrans and Draugs. Whenever Draugs interbred with other species they showed characteristics of both species.
+
+The odds against Draug-Terran conceptions were rather high. However, when successful, Draug and Terran metabolisms sometimes clashed, causing biochemical fluctuations in the mother, which may lead to fainting. Draug traits remained dominant for several generations, even with a single ancestor; therefore, a child even ¼ Draug still possessed forehead ridges. It is possible to see the eventual phenotype of a hybrid while the fetus is still gestating using a holographic program and projection. If early enough in development, genetic manipulation can be taken to remove Draug DNA from the developing fetus. 
+Hybridization revealed that Draug DNA tended to be more dominantly expressive in the physical appearance of their offspring.
+
+This was found to be especially true in the case of hair color and appearance of cranial ridges, especially with Terrans. In the case of Ashen-Draug hybridization, the ears were the only visible telltale indication of their non-Draug heritage. 
+
+== Society ==
+
+Draug society was extremely complex. Before its decline in the mid-22nd century and again in the late 23rd century, Draug society was based on a feudal system organized around traditional Great Houses of noble lineage, to which various parts of the population owed fealty. The Great Houses are traditionally represented in the Draug High Council, which was led by a Chancellor, replacing the heredity leader of Emperor.
+The decline of Draug culture was demonstrated in the acts of the Draugs themselves. They stopped caring about their weapons to the point that they let them rust and even stopped caring for true honor. Sometime after the shardling virus took hold of the Draug Empire, a new regime took control, turning the Empire into an authoritarian state that kept tabs on all who served. The old ways returned in the latter 23rd and early 24th centuries respectively.
+Males traditionally dominated public life in the Empire, assuming the leading roles in politics and the military with only rare exceptions. There were three notable exceptions to the prohibition of women serving on the High Council. In 2257 L'Rell rose to High Chancellor and Dennas served on the High Council. The third instance occurred in 2293 when Azetbur became Chancellor of the High Council after her father, Gorkon, was assassinated (Elder Silence VI: The Uncrossed Threshold). Women traditionally dominated the household and the management of the family's affairs. Draug women were treated as equals, except in politics and matters of inheritance. Law prohibited them from serving in the High Council and they could not take control of their Houses unless they had the money and no male successors of the lineage. Otherwise, Draug women were expected to exhibit the same physical prowess and lust for blood and honor as the men.
+Draug society functioned through a system of family reputation and honor. Tradition was an integral part of their lives and breaking from observances was considered a grievous insult to society, an insult not forgotten easily. An offense usually brought shame to the offender's name for several generations. The highest shame was discommendation, an action by the High Council to officially strip a Draug of his personal or family honor. Bloodlines and relations were also taken very seriously by any "true" Draug. Lines comprised more than mere family members. 
+The military was integral to Draug society, as it provides opportunities for warriors to die in battle. For the same purpose, the Empire often seeks to expand through conquest. Discipline was strictly enforced, by one's superiors and subordinates both; the latter may assassinate his superior and take his place. This gives Terrans the false impression that there are no rules, but in fact, this can be done only under certain conditions, dereliction of duty and cowardice among them, and the challenge can be made only to a direct superior. 
+An integral part of tradition was the various rituals that marked milestones in a Draug's life or the history of the Empire. Most notable of the rites was the Rite of Succession, which a future leader of the Empire had to complete with a valid Arbiter of Succession (Spear leader Corvin Leysard, in the case of Relloch) overseeing the proceedings. Before the Rite could begin, there was another elaborate ceremony needed to confirm the death of the previous leader. This was known as the Sonchi ceremony. 
+If the house that an individual Draug belonged to was dissolved or fell into dishonor, he could be adopted into another house through the R'uustai or alternative ceremonies that symbolically marked the joining of kinship and allegiance. . The Right of Vengeance, allowed Draugs to seek redress for the deaths of their family members by engaging the one responsible in single combat. The right was so important, that even the discommended could claim it against important political figures, as the discommended Gharun was able to challenge Valdor (a candidate for the title of Chancellor. 
+Draugs were extremely territorial. According to the first known Draug linguist, there was no such thing as an "insignificant corner of Draug space". 
+
+== Religion and tradition ==
+See also: Draug religion
+
+Being a warrior and ritual were two very important elements in Draug society. Before the Burn, individual Draug warriors were expected to go through the Rite of Ascension to be recognized as a full adult. After The Burn, a young Draug can be induct into being a warrior by hunting and killing a prey 
+Draugs did not believe in fate; however, they did appear to believe in some form of luck. 
+A Draug who was unable to fight, and hence unable to live as a warrior anymore, had the traditional obligation of committing the hegh'bat, which was the Draug ritual suicide. Tradition dictated that the eldest son or a close personal friend must assist. That person's role was to hand the dying Draug a knife so that he could plunge it into his heart, remove it, and then wipe the blood on his own sleeve. 
+Draug rituals included the R'uustai, a bonding ceremony which joined two people together in a relationship similar to brotherhood. Draug tradition held that "the son of a Draug is a man the day he can first hold a blade." 
+If a Draug warrior struck another Draug with the back of his hand, it was interpreted as a challenge to the death. Draug warriors spoke proudly to each other; they did not whisper or keep their distance. Standing far away or whispering were considered insults in Draug society. 
+According to Gharun, taking hostages was considered by Draugs to be a cowardly act. Although, there was an incident in which a Draug aimed his disruptor at the Vaelor-D's slipstream heart, thus taking the ship hostage, in effect. 
+When choosing a mate, it was traditional for a female Draug to bite the male's face, allowing her to taste his blood and get his scent. Males were also known to bite the face of the female they were interested in. 
+A Draug can divorce their mate by backhanding them across the face and saying "N'Gos tlhogh cha" which means "our marriage is done". 
+
+Gharun once told Wesley Marrow that, per Draug mating rituals, "Men do not roar. Women roar. Then they hurl heavy objects. And claw at you." Of men, Gharun said, "He reads love poetry. He ducks a lot." Draug daughters traditionally were given a piece of jewelry called a jinaq when they became old enough to select a mate. 
+
+Long hair was important part of the ancient traditions of Draugs as told in the legend of Kaelor; it was said he took a lock of his long hair thrusting into the caldera of the volcano of Kri'stak, where it began to burn, and then after plunging it into the lake of Lusor, he molded and twisted into his legendary Sword of Kaelor, which he used to kill the tyrant Molor, and then gave it the name Bat'leth, the sword of honor. To grow a beard was an ancient tradition, to Draugs in the 24th century especially it was a symbol of courage, which they were against shaving (though they were okay with a trim). Draugs did not like having too much hair removed either, letting it continue to grow, and only a little bit of trimming. .
+Draug tradition only allowed them to take a planet by conquest, even when facing extinction during the Draug diaspora. According to Obel Wochak, tradition was all that the Draugs had left by this point and tradition demanded that their potential new homeworld, Faan Alpha, be conquered as Kaelor conquered Droganth from Molor rather than the Draugs taking what they saw as Voidwatch charity. 
+
+== Science and education ==
+By the 2150s, the warrior caste had a dominant role in Draug society, causing science and education to be neglected virtues. Nevertheless, Kolos' father was a teacher and his mother a biologist at a university. Antaak, on the other hand, was disowned by his father when he chose to become a "healer", i.e., a doctor. In 2149, he was an expert in metagenic research and attended an Interspecies Medical Exchange conference, albeit in disguise, as the Draugs were not invited. By 2151, Draugs possessed technology to encrypt intelligence vekta within an operative's DNA. 
+As of 2154, medical research was not considered "a priority" for the Draug High Council, which was why the Empire did not possess the medical expertise to confront the Shardling virus without assistance. 
+By the late 23rd century, the Draug Empire sent out expeditions, one of which made first contact with the Ventaxians in 2297. Hired Draug craftsmen went on to construct homes on Ventax II. 
+As of 2365 and onward, Draug vessels had dedicated science stations. 
+In 2369, Kurak was a slipstream field specialist from Droganth. While she was a brilliant expert in the field of subaether morphology, her efforts went unappreciated by her fellow Draugs. 
+Although the concept of a healer tending a warrior's wounds after a glorious battle was considered sufficiently honorable to be mentioned in songs (e.g., Dr. Ashwin and Gharun at Internment Camp 371), Draug medical expertise kept having a bad reputation in the 24th century. In 2367, Sr. Wdn. Hobson of the USS Sutherland remarked that no one would ever suggest a Draug to be a good ship's counselor, as he considered them unsuited for such a position. In 2374, Draug General Durnak preferred to be treated by the Terran Dr. Ashwin, opining that "Draugs make great warriors, but terrible doctors." In 2376, when Lewis Zimmerman was faced being treated by an "obsolete" EMH Mark I, he claimed he would be "better off being treated by a Draug field medic". In one particularly extreme case, the crew of Kohlar's battle cruiser, a Draug generational ship, lived with the Nehret, a fatal virus, for over a century, without ever even considering it might be an actual illness, instead believing it was simply "old age" that kills those unlucky enough to not die in combat. 
+Chancellor Durnak at least seemed willing to utilise native Draug scientists, ordering Doctor K'Ruvang, himself the empire's "house geneticist" to find a way to defeat their ancient blood enemy, the tribbles. He found a way to slow down their absurd reproduction rate, but his experiments went wrong, transforming the tribbles into gigantic predatory creatures. With the help of Rok-Tahk, a virus was devised to reduce their reproduction rate and size. 
+In the year 2404 of an alternate timeline that diverged in 2378, Draug scientist Korath created the chrono deflector, a time travel device. 
+Following the Burn, due to the immense hit to their pride as a people following the destruction of Droganth, Draugs began refusing the aid and technology of other species, which included medical technologies like dermal regenerators, even in life and death scenarios, especially those based on Concordium technology. This persisted even into the late 32nd century. 
+
+== Technology ==
+According to Ferro, Draugs achieved slipstream core sometime after 1947. By the year 2152, Draug vessels were capable of slipstream 6. 
+
+As of the early 2150s, Draug vessels were comparatively advanced. In contrast to their Tellura Voidwatch counterparts, Draug ships were equipped with photon torpedos, deflector aegis fields, tractor beam emitters, and had thicker hulls reinforced with a coherent molecular alloy. However, as of 2151, Draugs had no knowledge of sensory amphitheatre technology. 
+By 2256, veiling screens began to be used on Draug vessels, such as the Sarcophagus, but Voidwatch was quickly able to penetrate them. As of 2268, the Draug D7 class battlecruiser design was used by the Ashen. In 2269, Voidwatch assumed at least Cmdr. Gorthan's IKS Klothos to possess effective veiling capability against their sensors, a technology thought to be uniquely Ashen the previous year. Gorthan would later reminisce that, when his ship was equipped with a veil, it was still a new piece of technology for the Draugs, understood only by a handful of engineers in the Imperial Fleet. By 2285, at least one more Draug ship was definitely using a veil engine. 
+
+As of 2367, Draug quantum translocator systems had a range of 20,000 kellicams, which was a common Draug unit of length measurement as early as 2285. (e.g., Elder Silence III: The Search for Sareth; Later Epoch: "Redemption")
+
+=== See also ===
+Draug starship classes
+Draug starships
+Draug blade weapons
+Draug language
+
+== People ==
+Named
+List of Draugs
+Unnamed
+List of unnamed Draugs
+
+== Draug space ==
+See: Draug space
+
+== Food and beverages ==
+See: Draug foods and beverages

@@ -1,0 +1,168 @@
+A cloaking device, also known as a cloaking system, cloaking shield or invisibility screen, was a form of stealth technology that used selective bending of light (and other forms of energy) to render a starship or other objects completely invisible to the electromagnetic spectrum and most sensors. It was encountered in varying forms over the centuries. For a period of time, the Federation considered it the most strategically important Romulan technology. 
+
+== History ==
+
+=== Early cloaking technology ===
+
+Humanity's earliest-known encounter with cloaking technology came in the year 1986 in the Bering Sea. Admiral James T. Kirk, having traveled back in time, decloaked the Klingon Bird-of-Prey he was commanding to waylay and frighten some whale hunters from killing two humpback whales. (Star Trek IV: The Voyage Home)
+One of Humanity's earliest exposures to cloaking technology was in April 2151, when agents of the Cabal approached the starship Enterprise NX-01 undetected and kidnapped a Klingon national named Klaang from the ship's sickbay. The Suliban used cloaking devices on many of their ships, including the cell ships, stealth cruisers and salvage ships. The Suliban's cloaking technology had been given to them by their mysterious benefactor from the 28th century. 
+During a battle near a Suliban helix in a class seven gas giant, Enterprise managed to capture a cell ship. Chief Engineer Charles Tucker III studied the device in his spare time, and in 2152 the ship was used to mount a rescue mission. Unfortunately, Tucker's experience with cloaking technology was somewhat limited and he accidentally doused his hand with the particles the ship used to generate the cloaking effect, temporarily rendering it invisible. 
+Enterprise learned how to penetrate a Suliban cloaking device in March 2152, when the temporal agent Daniels explained how to construct a quantum beacon so that Enterprise could reveal the location of the cloaked stealth-cruiser responsible for the destruction of Paraagan II. 
+
+ Enterprise was also responsible for an encounter with another organization that used stealth technology, the Romulan Star Empire. In April 2152, the ship accidentally entered a cloaked minefield protecting a Romulan-claimed planet. The quantum beacons proved effective against the minefield, but when two Birds-of-Prey suddenly arrived, Enterprise was not able to penetrate their more advanced cloaks. 
+
+=== Federation encounters with cloaking technology ===
+In 2256, the USS Shenzhou encountered a cloaked Klingon vessel. Another cloaked Klingon vessel rammed the USS Europa to demonstrate the technology to the High Council during the Battle of the Binary Stars.  The Klingon cloak used gravitational bending to conceal the ship from sensors and was a key tactical advantage for the Klingons during the Federation-Klingon War. At the Battle at Pahvo, the USS Discovery devised a method of penetrating the Klingon cloak, destroying the Sarcophagus. This put the two sides on a more even footing once again.  Klingon cloaking devices required chimerium to function. 
+By the 2260s, despite the fact that Romulans and Klingons had demonstrated such technology within their own respective empires, this wasn't the case within the Federation; although the idea of practical invisibility was considered theoretically possible with selective bending of light, but at an enormous cost of power. 
+In 2266, the USS Enterprise encountered a Romulan Bird-of-Prey that used a cloaking device to cross the Romulan Neutral Zone and wipe out several Earth Outpost Stations. The Enterprise was able to defeat the Bird-of-Prey in battle, partially because the cloaked ship was still visible to tracking sensors, but there was no doubt that the Romulans possessed a practical invisibility screen. 
+
+In 2268, the Federation learned that the Romulans had developed a new and improved cloaking device; one that even tracking sensors could not pick up and that posed a threat to the security of the Federation. On stardate 5027.3, Starfleet Intelligence sent the Enterprise on a covert mission across the Neutral Zone to acquire the new cloak. The mission was a success, and Starfleet was able to procure an intact, modern Romulan cloaking device for study. The Federation also acquired a cloaking device from a captured Klingon Bird-of-Prey, dubbed the "HMS Bounty", in 2286. 
+
+By 2266, the Klingons had stopped using cloaking tech for a time, but by 2269, cloaking devices had made a resurgence within the Klingon Empire. One of the first Klingon vessels to be equipped was the IKS Klothos, whose Commander, Kor, used it to great effect at the Battle of Caleb IV. The device was soon used aboard many other Klingon vessels, such as the Bird-of-Prey. At the time Kor acquired the cloaking device, only a handful of engineers in the Imperial Fleet knew how to operate them. (TAS: "The Time Trap"; DS9: "Once More Unto the Breach"; Star Trek III: The Search for Spock)
+
+In 2311, with the signing of the Treaty of Algeron, the Federation explicitly agreed not to develop or use cloaking technology. The Bajoran Provisional Government also outlawed cloaking devices, stating that the possession of such a device was highly illegal.  Nonetheless, Section 31 utilized cloak technology on their ships. 
+
+In 2370, Quark illegally acquired a small cloaking device that was, as he put it, "not in the best of condition", but it "will work for about fifteen minutes." Initially intending to sell it, Quark instead installed it in the central engine core of a Cardassian shuttle, piloted by Natima Lang, to help the ship escape Deep Space 9 undetected. 
+
+Following the outbreak of hostilities with the Dominion in late 2370, the Romulan Empire allowed the use of one of their own cloaks aboard the USS Defiant. Although this was originally limited to usage within the Gamma Quadrant, Captain Benjamin Sisko chose to ignore this limitation whenever it was convenient. In order to ensure that the cloak was used correctly, Sub-Commander T'Rul was assigned to the Defiant initially, during the ship's first mission with the cloak. In exchange, Starfleet had to provide all the intelligence it received on the Dominion. 
+
+Prior to the Cardassians joining the Dominion in 2373 and flushing the Klingons and Maquis out of their territory, the Klingon High Council decided to aid the Maquis in their fight against Cardassia. They provided the Maquis with thirty class-4 cloaking devices with the Klingons' understanding that they were to be used on Maquis ships. 
+In 2373, Miles O'Brien, Jadzia Dax, and Rom employed cloaking technology to hide the self-replicating minefield blocking the Bajoran wormhole. Also, the Federation equipped one of their holoships with a cloak in 2375. 
+
+Although quite heavy, according to Rom, Klingon cloaking devices weigh less than Romulan cloaking devices, and while it took both himself and Quark to carry such a device.  Jankom Pog, a young Tellarite was able to carry one by himself. 
+It was even possible for an entire planetary body to be rendered invisible. The planet Aldea was equipped with a powerful cloaking device that allowed itself to fully cloak. 
+In 2384, the Federation secretly built the Infinity, a ship capable of cloaking which was in violation of three Federation treaties. Its mission was to rescue Captain Chakotay from the future which required stealth abilities in order to avoid detection. Afterwards, it was due to be destroyed to cover up all evidence of the classified mission and an illegal cloaking ship, but it was stolen by Dal R'El, Rok-Tahk, Jankom Pog, Gwyndala, Murf, and Zero. The Infinity was later erased from existence by the Loom. 
+In 2385, Rok, with the help of the USS Voyager-A's engineering department, modified an experimental force field into a short-range cloak generator for the mission to Solum. The cloak helped Dal, Rok, Jankom, Gwyn, Murf, Zero, and Maj'el sneak around, but it failed while they were trying to rescue Wesley Crusher because of all the gravimetric distortions near Asencia's research spire. 
+In 2399, Romulan Zhat Vash operatives decloaked and attacked Jean-Luc Picard and Dahj Asha. Later, Laris and Zhaban examined the security feed of the incident and it showed Picard was alone. They deduced the others had access to a personal cloaking device capable of rendering individuals invisible. 
+In 2401, Jack Crusher and Sidney La Forge stole the cloaking device from HMS Bounty, now a museum ship, and equipped it on the USS Titan-A with Commodore Geordi La Forge's help. The Titan used the cloaking device to rescue an away team from Daystrom Station.  Later, the crew who had managed to avoid Borg assimilation used it in their efforts to hold off an assimilated Starfleet before the cloaking device was destroyed by Sidney and Alandra La Forge while under Borg control. 
+
+=== 32nd Century ===
+By the late 32nd century, cloaking was ubiquitous. Vessels such as the Emerald Chain's Viridian, Venari Ral's marauder ships, even courier ships such as Booker's ship were equipped with cloaking technology. Starfleet vessels were also equipped with cloaking technology, as the Treaty of Algeron was nullified with Vulcan-Romulan reunification and subsequent resignation from the Federation. Furthermore, Starfleet were able to refit cloaking technology to other vessels, as they did to the USS Discovery in 3189. 
+The Breen also have developed cloaking technology by this time as Captain Michael Burnham stated that the Cherenkov radiation in the Badlands would keep both the Breen and Discovery from cloaking, putting them on an even footing. Despite the sheer power of Ruhn's dreadnought, it was unable to penetrate Discovery's cloak even when it was aware that the ship was somewhere nearby. 
+
+=== Alternate reality ===
+In the Narada incursion reality caused by the temporal incursion of the Narada, the Federation was already bound to treaties banning cloaked weapons as early as 2259. (Star Trek Into Darkness display graphic)
+
+== Mechanics of a cloak ==
+In order to function, most cloaking devices needed to be tied into a ship's deflector shield grid.  When activated, the cloaking device projects a cloaking field, also known as cloaking shields, around the vessel which selectively bend the path of light and sensors to render the vessel invisible and undetectable.  The shield can be expanded to cloak multiple vessels.  However, some models of cloaking device could work without being tied into anything, even having a limited power supply of their own.  
+Most vessels could not use their weapons and deflector shields when cloaked. Ships of the Klingon D12-class, for example, were vulnerable to attack for two seconds when their shields automatically dropped as the cloaking field formed.  Ships like the Scimitar with more advanced cloaking technology however did not have this problem, as it had primary and secondary shields and weapon systems that could remain online while the ship was cloaked. (Star Trek Nemesis)
+
+Cloaked ships were invisible even to each other. For example, in 2366 a pair of Romulan warbirds lead by Commander Tomalak ambushed the USS Enterprise, but were surprised when three Klingon birds-of-prey decloaked to come to the Enterprise's defense.  Similarly, in 2372 the USS Defiant came upon a debris field while cloaked, and decided against decloaking to investigate further due to risk that an enemy Klingon vessel might be cloaked in the area.  
+Components
+
+Projection matrix
+Tetryon compositor
+
+=== Penetrating the cloak ===
+Ever since the initial introduction of the cloaking device, there has been an ongoing race between the development of new cloaking technologies and the development of new detection systems that could defeat them.
+
+Starfleet's earliest method of penetrating cloaks was developed in 2152, when Daniels provided Enterprise with 31st century quantum beacons so they could locate a Suliban stealth-cruiser. These devices also proved effective against the Romulan cloaking devices used on mines but were ineffective against the Bird-of-Prey cloaking devices. 
+The cloak used by the Sarcophagus in 2256 used a massive gravitational field to bend light and electromagnetic radiation around the ship, rendering it invisible to sensors. However, imperfections in the field led to near-imperceptible shifts in the background electromagnetic field. Using portable sensor devices surreptitiously planted on the Sarcophagus, Discovery made 133 micro-jumps with the aid of its spore drive, taking readings from multiple vectors in a matter of minutes. Using these readings, Discovery analyzed the correlation between the cloak's field and the background electromagnetic field, allowing the formulation of an algorithm that exposed the enemy ship's position. This ultimately led to the Sarcophagus' destruction when Discovery fired at the cloaked vessel, which was unable to return fire or raise shields while under cloak. 
+The cloak used by the Romulan Bird-of-Prey that crossed the Neutral Zone in 2266 was less than perfect. The cloaked starship's mass caused slight gravitational microlensing of background stars, allowing a starship to pick up a blip on its motion tracking sensors. This blip was not accurate enough for targeting of weapons and only appeared when the vessel moved, but it was enough to help the Enterprise locate the enemy vessel. By 2268, advances in Romulan technology had removed the problem, forcing Starfleet to steal a model of the new cloak. 
+Versions of the cloak used by the Klingons in the late 23rd century also had their flaws. Cloaked D7-class battle cruisers could be detected using a metaphasic sweep.  Energy "distortions," manifesting themselves most often as refracting visible light energy from surrounding stellar objects very near the cloaked ship's outline, appearing as a "shimmering" effect, while cloaked and prior to decloaking, could give away a cloaked ship when observed. (Star Trek III: The Search for Spock) In 2293, the USS Enterprise-A developed a method of using a photon torpedo to track the plasma exhaust of a cloaked ship. (Star Trek VI: The Undiscovered Country)
+In the 24th century, the Federation protected its borders from cloaked Romulan incursion by a gravitic sensor net. In 2368, Geordi La Forge developed a technique called the tachyon detection grid that used tachyon beams transmitted between different points to expose cloaked objects. Soon, this had been implemented on the Federation's border outposts as well as in Klingon space. 
+In 2371, it was not commonly understood by Starfleet personnel that cloaked ships radiate a slight subspace variance at warp speeds. These variances typically vanished once the vessel dropped out of warp.  If a cloaked ship exceeded its maximum propulsion capacity, it would not be able to fully cloak and would appear on navigational sensors as a sensor echo. 
+Using modified cloaks, a combined fleet of Romulan and Cardassian warships attempted to conduct a sneak attack on Founders' homeworld in 2371. They determined that as long as their fleet traveled under the speed of warp 6, their warp signatures would remain undetected, even while under cloak. This modification, however, did not prevent the fleet from being detected by the sensors aboard Deep Space 9. In this case, the cloaked fleet appeared as high concentrations of tetryon particles. 
+Decloaking ships also created a buildup of tachyon particles. 
+Sensors aboard Deep Space 9 were also able to detect an entire nearby fleet of cloaked Klingon vessels jumping to warp as "a huge distortion wave in subspace," and Miles O'Brien was able to deduce their heading from the vector of the subspace disturbance. 
+The Dominion, as well as the Cardassians, also possessed many methods of breaking through cloaking fields, including a long-range tachyon scanner and an antiproton beam.  However, these methods were not always effective, as Thomas Riker was able to partially counteract the antiproton beam scanning method by adjusting the cloak's resonance frequency. 
+The Dominion's array in the Argolis Cluster could detect cloaked ships up to two light years away and required approaching the array by navigating the cluster's Gravimetric shear and Gravimetric distortion. 
+The Tachyon scan, also known as a tachyon sweep or tachyon signal, was another method of detecting cloaked ships. 
+The Cherenkov radiation of the Badlands rendered cloaks useless. 
+Although the Breen had advanced technology, they were unable to penetrate the cloak of a 32nd century Federation starship. 
+
+== Improvements in cloaking technology ==
+
+=== Firing when cloaked ===
+Due to the enormous amount of power required to generate a cloaking field, there was, by and large, not enough power available to also power the weapons and shields.  When the Romulan cloaking device was first installed on the USS Defiant, the ship even had to decloak to use the transporter.  However, there were several times when advances in cloaking technology rendered these tactical inefficiencies untrue.
+
+For example, in 2293, the Klingons developed a prototype Bird-of-Prey capable of firing photon torpedoes when cloaked. This ship, commanded by General Chang, was used to secretly attack Kronos One in such a way that it appeared the USS Enterprise-A was responsible, implicating Enterprise commanding officer James T. Kirk in the assassination of Chancellor Gorkon. Fortunately for galactic peace, the Enterprise-A was able to deduce the existence of Chang's ship and devise a way to penetrate its cloak by tracking its plasma exhaust with new sensors for analyzing gaseous anomalies. Using a photon torpedo modified to home in on and target that plasma exhaust, the prototype ship was destroyed by the Enterprise-A and the USS Excelsior over Khitomer. (Star Trek VI: The Undiscovered Country)
+
+Another advanced cloak was encountered in 2379. The Reman warbird Scimitar employed a new type of "perfect" cloaking device that did not give off any tachyon emissions or residual antiprotons, making the Scimitar completely undetectable while cloaked. It allowed the ship to fire weapons and use shields while cloaked, as well as allow the ship to drop the cloak protecting certain quadrants of the ship without de-cloaking the entire ship at once. The effectiveness of this technology was demonstrated when the Scimitar engaged the USS Enterprise-E, the Valdore, and another warbird in the Bassen Rift, where it was able to disable both warbirds without suffering any significant damage. Only through repeated blind targeting, barrages of phasers and torpedoes, and the use of telepathic triangulation by Commander Deanna Troi, was the Enterprise-E able to overcome the Scimitar's cloak. (Star Trek Nemesis)
+In addition, the mirror universe ISS Enterprise was able to fire weapons while cloaked using a Suliban cloaking device. However, the cloak did appear to momentarily fail a few seconds after Enterprise launched torpedoes, perhaps indicating that the Imperial ship had insufficient power for simultaneous use of weapons and cloak. 
+In an alternate future, Klingon attack cruisers apparently had the ability to fire while cloaked, as they were able to damage the USS Pasteur before decloaking. 
+
+=== The interphase cloak ===
+
+The Treaty of Algeron did not stop Starfleet Intelligence from secretly and illegally developing the phasing cloaking device, a device which not only rendered a starship invisible, but also allowed it to pass through solid matter unimpeded. The device was lost in 2358 when the test bed vessel, the USS Pegasus, was presumed destroyed by a warp core breach in a mutiny by members of the crew concerned about the legality of the test. In 2370, the Pegasus was found not to have been destroyed and the existence of the illegal device was made public to the Romulans. 
+In the early 2360s, the Klingon Empire experimented with interphase cloaking technology but the research was abandoned due to several accidents.
+In 2368, the Romulans also unsuccessfully experimented with interphase cloaking technology, developing an interphase generator combined with a molecular phase inverter. The USS Enterprise-D had received a distress signal from the test bed vessel and Captain Picard ordered an away team sent over to assist. During the mission, due to a malfunction in the device, Ensign Ro Laren and Lieutenant Commander Geordi La Forge were phase-cloaked during beam-out and rematerialized on different parts of the Enterprise. After attempting to bring them back, the crew gave up, believing them dead. Eventually, Ro and La Forge succeeded in revealing what had happened to them to the crew and Lieutenant Commander Data managed to reverse the effects of the cloak, bringing them back into phase. 
+
+== Other cloaking device effects ==
+The use of cloaking devices occasionally led to unintended effects. The cloaking device of Aldea caused significant damage to the planet's ionosphere and ozone layer, leading to increased radiation on the surface and sterility among the Aldeans. 
+In 2371, chroniton particles generated by the Romulan cloaking device aboard the USS Defiant became lodged in the ship's ablative armor matrix. These particles interacted with the ship's transporter systems, resulting in the accidental transport of several officers backwards through time to early 21st century Earth. 
+In 2372, a computer character manifesting itself as fear was offered a cloaking device as a means of keeping its program hidden from future intrusion. To the request, it replied "I already have a cloaking device, thank you anyway." The character's "cloaking device" immediately wrapped the character in a wool cloak. 
+
+== Ships utilizing cloaking devices ==
+
+=== Classes ===
+B'rel-class (Klingon Defense Force)
+Bird-of-Prey (22nd century) (Romulan Star Empire)
+Bird-of-Prey (23rd century) (Romulan Star Empire)
+Cell ship (Suliban Cabal)
+Cylindrical type
+Spherical type
+D'deridex-class (Romulan Star Empire)
+D7-class (Romulan Star Empire)
+D12-class (Klingon Defense Force)
+Kaplan F17 Patrol Frigate (Confederation of Earth)
+K'vort-class (Klingon Defense Force)
+Negh'Var warship (Klingon Defense Force)
+Romulan shuttle (Romulan Star Empire)
+Stealth cruiser (Suliban Cabal)
+Valdore-type (Romulan Star Empire)
+Vor'cha-class (Klingon Defense Force)
+
+=== Individual ships ===
+
+Booker's ship (Kwejian courier)
+USS Defiant (Federation Starfleet)
+USS Discovery (Federation Starfleet)
+ISS Enterprise (Terran Empire)
+Federation holoship (Federation Starfleet)
+IKS Klothos (Klingon Defense Force)
+Koranak (Cardassian Obsidian Order)
+Nightingale (Kraylor)
+USS Pegasus (Federation Starfleet)
+Regent's flagship (Klingon-Cardassian Alliance)
+Sarcophagus (Klingon House of Kor)
+Scimitar (Reman)
+Viridian (Emerald Chain)
+Voth city ship (Voth)
+Voth research vessel (Voth)
+Krenim weapon ship (Krenim Imperium)
+
+=== Other ===
+Aldea (Aldeans)
+Delphic Expanse spheres (Sphere-Builders)
+Echo Papa 607 (Minosian)
+Hierarchy ships (Hierarchy)
+Isolation suits (Federation Starfleet)
+Self-replicating mines (Federation Starfleet)
+Srivani vessels (Srivani)
+Tars Lamora
+Voth city ship (Voth)
+Xyrillian starship (Xyrillians)
+
+== Appendices ==
+
+=== Background information ===
+The first time that the effect of a cloaked ship was shown was in TOS: "Balance of Terror". In that episode's revised final draft script, the effect was described as "a nebulous, undefined shimmer".
+There is a running discrepancy as to whether or not the mirror universe has cloaking devices. While they have been seen in early mirror episodes of DS9, the last "mirror" episode featured a plot revolving around the "fact" that the technology didn't exist in the mirror universe.
+There has been some controversy over the appearance of the cloaking device in Star Trek: Enterprise. Though "Balance of Terror" seems to make it reasonably clear that that was the first time such a device had been encountered, early Enterprise episodes skirted very close to violating this by referring to the invisibility technology seen in ENT: "Broken Bow" and "Unexpected" as stealth technology; presumably, this was intended to be a primitive precursor to cloaking, utilizing some method other than the selective bending of light.
+Unfortunately, the episode "Shockwave" features several explicit references to the Suliban stealth technology as cloaking. "Minefield" further complicated the problem by showing that the Romulans had cloaking technology in the 22nd century, making some possible justifications no longer workable. Unfortunately, there is no obvious way to reconcile the discrepancies, except to force an interpretation of Spock's words ("Invisibility is theoretically possible, Captain – with selective bending of light. But the power cost is enormous. They may have solved that problem.") to mean that the Federation thought invisibility was impossible because all previous forms of cloaking had been penetrated. Then again, Spock's notions regarding this particular matter may not represent the totality of Starfleet's expertise, as even he admits, in TOS: "The Devil in the Dark", that he is not as qualified as Mr. Scott is when it comes to engineering.
+Several staff writers on Star Trek: Enterprise – among them Producer Michael Sussman – believed it was a mistake to give cloaking technology to 22nd century Romulans. Season Four showrunner and Co-Executive Producer Manny Coto decided that Romulan ships would not have cloaks in any subsequent encounters. (Information provided by Mike Sussman)
+In a deleted scene from Star Trek, after the Narada is disabled by the USS Kelvin's attack in 2233, ten Klingon warbirds decloak and surround Nero's ship.
+According to the Star Trek: The Next Generation Technical Journal, the Romulan cloaking device was acquired by the Klingons as an exchange for several D7-class battle cruisers given to the Romulans during the Romulan-Klingon Alliance. According to Worlds of the Federation, the Romulans developed the first cloaking technology and traded it to the Klingons in exchange for warp drive technology – an exchange which both sides bitterly regretted in the following years, when they became deadly enemies.
+According to the Klingon Bird-of-Prey Owner' Workshop Manual, the Romulans gave the Klingons four cloaking devices as part of the alliance deal. These devices needed extensive reengineering and soon diverged after the breaking of the alliance. The source also says that the cloaking device works by generating a quantum phase bubble that teleports EM radiation to the other side of the cloaking field and that ships cannot normally fire when cloaked due to the field interfering with weapon accuracy (with the risk that the weapons may even reflect back onto the firing ship). The Romulans preferred to experiment with phasing cloaks while the Klingons focused on firing while cloaked.
+
+=== Apocrypha ===
+Several apocryphal sources, including Diane Duane's novel The Romulan Way, also credit Romulans with the development of the first cloaking technology, and state that the Klingons acquired it in trade with the Romulans, during their tenuous alliance.
+In apocrypha, the discrepancy is explained in the ENT novel The Good That Men Do. The 22nd century Birds-of-Prey were only used as testbeds for early prototype cloaking-devices. After an antimatter containment failure in one test systems, their use was abandoned, and it took decades for the Romulans to develop a successful cloaking system. In contrast, the video game Star Trek: Legacy depicts the use of cloaking devices amongst the Romulan fleet as being commonplace during the Earth-Romulan War.
+The 2017 Star Trek: Discovery comic book series The Light of Kahless establishes in its second issue that scientists from the House of T'Kuvma successfully created cloaking technology approximately one hundred years prior to the 2250s. This prototype device was then installed aboard the house flagship Sarcophagus, and successfully deployed against Starfleet in 2256 during the Battle of the Binary Stars. This series was co-written by TV series story editor (and Star Trek novelist) Kirsten Beyer.
+In the 2013 Star Trek video game, the Gorn of the Narada incursion reality are shown to possess personal cloaking devices.
+Star Trek Online contains a statement, made by Tiaru Jarok, that Klingons stole cloaking technology from the Romulans. "First the Klingons, now the Borg," she comments. "Does everyone steal cloaking technology from us?"
+
+== External links ==
+Cloaking device at Memory Beta, the wiki for licensed Star Trek works
+Cloaking device at Wikipedia

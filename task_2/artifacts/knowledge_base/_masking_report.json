@@ -1,0 +1,252 @@
+{
+  "total_files": 41,
+  "total_leaks": 0,
+  "files": {
+    "bajor": {
+      "leaks": [],
+      "chars": 7893,
+      "kind": "planet",
+      "title": "Bajor"
+    },
+    "bajoran": {
+      "leaks": [],
+      "chars": 10793,
+      "kind": "species",
+      "title": "Bajoran"
+    },
+    "battle_of_wolf_359": {
+      "leaks": [],
+      "chars": 15648,
+      "kind": "event",
+      "title": "Battle of Wolf 359"
+    },
+    "borg": {
+      "leaks": [],
+      "chars": 23564,
+      "kind": "species",
+      "title": "Borg"
+    },
+    "borg_cube": {
+      "leaks": [],
+      "chars": 13496,
+      "kind": "ship",
+      "title": "Borg cube"
+    },
+    "cardassian": {
+      "leaks": [],
+      "chars": 33787,
+      "kind": "species",
+      "title": "Cardassian"
+    },
+    "cloaking_device": {
+      "leaks": [],
+      "chars": 22731,
+      "kind": "technology",
+      "title": "Cloaking device"
+    },
+    "data": {
+      "leaks": [],
+      "chars": 80179,
+      "kind": "character",
+      "title": "Data"
+    },
+    "deanna_troi": {
+      "leaks": [],
+      "chars": 58426,
+      "kind": "character",
+      "title": "Deanna Troi"
+    },
+    "deep_space_9": {
+      "leaks": [],
+      "chars": 25591,
+      "kind": "station",
+      "title": "Deep Space 9"
+    },
+    "earth": {
+      "leaks": [],
+      "chars": 20316,
+      "kind": "planet",
+      "title": "Earth"
+    },
+    "ferengi": {
+      "leaks": [],
+      "chars": 28134,
+      "kind": "species",
+      "title": "Ferengi"
+    },
+    "hikaru_sulu": {
+      "leaks": [],
+      "chars": 53569,
+      "kind": "character",
+      "title": "Hikaru Sulu"
+    },
+    "holodeck": {
+      "leaks": [],
+      "chars": 23898,
+      "kind": "technology",
+      "title": "Holodeck"
+    },
+    "james_t_kirk": {
+      "leaks": [],
+      "chars": 135782,
+      "kind": "character",
+      "title": "James T. Kirk"
+    },
+    "jean_luc_picard": {
+      "leaks": [],
+      "chars": 113792,
+      "kind": "character",
+      "title": "Jean-Luc Picard"
+    },
+    "khan_noonien_singh": {
+      "leaks": [],
+      "chars": 19876,
+      "kind": "character",
+      "title": "Khan Noonien Singh"
+    },
+    "klingon": {
+      "leaks": [],
+      "chars": 32386,
+      "kind": "species",
+      "title": "Klingon"
+    },
+    "leonard_mccoy": {
+      "leaks": [],
+      "chars": 35280,
+      "kind": "character",
+      "title": "Leonard McCoy"
+    },
+    "montgomery_scott": {
+      "leaks": [],
+      "chars": 34213,
+      "kind": "character",
+      "title": "Montgomery Scott"
+    },
+    "nyota_uhura": {
+      "leaks": [],
+      "chars": 59924,
+      "kind": "character",
+      "title": "Nyota Uhura"
+    },
+    "pavel_chekov": {
+      "leaks": [],
+      "chars": 23707,
+      "kind": "character",
+      "title": "Pavel Chekov"
+    },
+    "phaser": {
+      "leaks": [],
+      "chars": 19665,
+      "kind": "technology",
+      "title": "Phaser"
+    },
+    "prime_directive": {
+      "leaks": [],
+      "chars": 64228,
+      "kind": "concept",
+      "title": "Prime Directive"
+    },
+    "q": {
+      "leaks": [],
+      "chars": 28297,
+      "kind": "character",
+      "title": "Q"
+    },
+    "qo_nos": {
+      "leaks": [],
+      "chars": 8088,
+      "kind": "planet",
+      "title": "Qo'noS"
+    },
+    "replicator": {
+      "leaks": [],
+      "chars": 17319,
+      "kind": "technology",
+      "title": "Replicator"
+    },
+    "romulan": {
+      "leaks": [],
+      "chars": 16533,
+      "kind": "species",
+      "title": "Romulan"
+    },
+    "romulus": {
+      "leaks": [],
+      "chars": 5535,
+      "kind": "planet",
+      "title": "Romulus"
+    },
+    "spock": {
+      "leaks": [],
+      "chars": 94069,
+      "kind": "character",
+      "title": "Spock"
+    },
+    "starfleet": {
+      "leaks": [],
+      "chars": 33248,
+      "kind": "organisation",
+      "title": "Starfleet"
+    },
+    "transporter": {
+      "leaks": [],
+      "chars": 47707,
+      "kind": "technology",
+      "title": "Transporter"
+    },
+    "united_federation_of_planets": {
+      "leaks": [],
+      "chars": 30123,
+      "kind": "organisation",
+      "title": "United Federation of Planets"
+    },
+    "uss_defiant_2375": {
+      "leaks": [],
+      "chars": 3129,
+      "kind": "ship",
+      "title": "USS Defiant (2375)"
+    },
+    "uss_enterprise_ncc_1701": {
+      "leaks": [],
+      "chars": 58897,
+      "kind": "ship",
+      "title": "USS Enterprise (NCC-1701)"
+    },
+    "uss_enterprise_ncc_1701_d": {
+      "leaks": [],
+      "chars": 45020,
+      "kind": "ship",
+      "title": "USS Enterprise (NCC-1701-D)"
+    },
+    "uss_voyager": {
+      "leaks": [],
+      "chars": 60905,
+      "kind": "ship",
+      "title": "USS Voyager"
+    },
+    "vulcan": {
+      "leaks": [],
+      "chars": 27006,
+      "kind": "species",
+      "title": "Vulcan"
+    },
+    "warp_drive": {
+      "leaks": [],
+      "chars": 13476,
+      "kind": "technology",
+      "title": "Warp drive"
+    },
+    "william_t_riker": {
+      "leaks": [],
+      "chars": 95935,
+      "kind": "character",
+      "title": "William T. Riker"
+    },
+    "worf": {
+      "leaks": [],
+      "chars": 113420,
+      "kind": "character",
+      "title": "Worf"
+    }
+  }
+}

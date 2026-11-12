@@ -1,0 +1,248 @@
+[
+  {
+    "slug": "james_t_kirk",
+    "title": "James T. Kirk",
+    "kind": "character",
+    "chars": 168605
+  },
+  {
+    "slug": "spock",
+    "title": "Spock",
+    "kind": "character",
+    "chars": 140840
+  },
+  {
+    "slug": "leonard_mccoy",
+    "title": "Leonard McCoy",
+    "kind": "character",
+    "chars": 45907
+  },
+  {
+    "slug": "montgomery_scott",
+    "title": "Montgomery Scott",
+    "kind": "character",
+    "chars": 55968
+  },
+  {
+    "slug": "nyota_uhura",
+    "title": "Nyota Uhura",
+    "kind": "character",
+    "chars": 75480
+  },
+  {
+    "slug": "hikaru_sulu",
+    "title": "Hikaru Sulu",
+    "kind": "character",
+    "chars": 64466
+  },
+  {
+    "slug": "pavel_chekov",
+    "title": "Pavel Chekov",
+    "kind": "character",
+    "chars": 34822
+  },
+  {
+    "slug": "jean_luc_picard",
+    "title": "Jean-Luc Picard",
+    "kind": "character",
+    "chars": 156004
+  },
+  {
+    "slug": "william_t_riker",
+    "title": "William T. Riker",
+    "kind": "character",
+    "chars": 105777
+  },
+  {
+    "slug": "data",
+    "title": "Data",
+    "kind": "character",
+    "chars": 103746
+  },
+  {
+    "slug": "worf",
+    "title": "Worf",
+    "kind": "character",
+    "chars": 138543
+  },
+  {
+    "slug": "deanna_troi",
+    "title": "Deanna Troi",
+    "kind": "character",
+    "chars": 98553
+  },
+  {
+    "slug": "khan_noonien_singh",
+    "title": "Khan Noonien Singh",
+    "kind": "character",
+    "chars": 34267
+  },
+  {
+    "slug": "q",
+    "title": "Q",
+    "kind": "character",
+    "chars": 41388
+  },
+  {
+    "slug": "vulcan",
+    "title": "Vulcan",
+    "kind": "species",
+    "chars": 34974
+  },
+  {
+    "slug": "klingon",
+    "title": "Klingon",
+    "kind": "species",
+    "chars": 39605
+  },
+  {
+    "slug": "romulan",
+    "title": "Romulan",
+    "kind": "species",
+    "chars": 60289
+  },
+  {
+    "slug": "borg",
+    "title": "Borg",
+    "kind": "species",
+    "chars": 42332
+  },
+  {
+    "slug": "cardassian",
+    "title": "Cardassian",
+    "kind": "species",
+    "chars": 76495
+  },
+  {
+    "slug": "ferengi",
+    "title": "Ferengi",
+    "kind": "species",
+    "chars": 119214
+  },
+  {
+    "slug": "bajoran",
+    "title": "Bajoran",
+    "kind": "species",
+    "chars": 44325
+  },
+  {
+    "slug": "uss_enterprise_ncc_1701",
+    "title": "USS Enterprise (NCC-1701)",
+    "kind": "ship",
+    "chars": 65509
+  },
+  {
+    "slug": "uss_enterprise_ncc_1701_d",
+    "title": "USS Enterprise (NCC-1701-D)",
+    "kind": "ship",
+    "chars": 52950
+  },
+  {
+    "slug": "uss_voyager",
+    "title": "USS Voyager",
+    "kind": "ship",
+    "chars": 65959
+  },
+  {
+    "slug": "uss_defiant_2375",
+    "title": "USS Defiant (2375)",
+    "kind": "ship",
+    "chars": 11337
+  },
+  {
+    "slug": "borg_cube",
+    "title": "Borg cube",
+    "kind": "ship",
+    "chars": 14464
+  },
+  {
+    "slug": "earth",
+    "title": "Earth",
+    "kind": "planet",
+    "chars": 78431
+  },
+  {
+    "slug": "qo_nos",
+    "title": "Qo'noS",
+    "kind": "planet",
+    "chars": 45153
+  },
+  {
+    "slug": "romulus",
+    "title": "Romulus",
+    "kind": "planet",
+    "chars": 12417
+  },
+  {
+    "slug": "bajor",
+    "title": "Bajor",
+    "kind": "planet",
+    "chars": 28747
+  },
+  {
+    "slug": "deep_space_9",
+    "title": "Deep Space 9",
+    "kind": "station",
+    "chars": 30468
+  },
+  {
+    "slug": "warp_drive",
+    "title": "Warp drive",
+    "kind": "technology",
+    "chars": 13808
+  },
+  {
+    "slug": "transporter",
+    "title": "Transporter",
+    "kind": "technology",
+    "chars": 65708
+  },
+  {
+    "slug": "replicator",
+    "title": "Replicator",
+    "kind": "technology",
+    "chars": 18745
+  },
+  {
+    "slug": "holodeck",
+    "title": "Holodeck",
+    "kind": "technology",
+    "chars": 29814
+  },
+  {
+    "slug": "phaser",
+    "title": "Phaser",
+    "kind": "technology",
+    "chars": 33270
+  },
+  {
+    "slug": "cloaking_device",
+    "title": "Cloaking device",
+    "kind": "technology",
+    "chars": 28618
+  },
+  {
+    "slug": "united_federation_of_planets",
+    "title": "United Federation of Planets",
+    "kind": "organisation",
+    "chars": 35761
+  },
+  {
+    "slug": "starfleet",
+    "title": "Starfleet",
+    "kind": "organisation",
+    "chars": 40051
+  },
+  {
+    "slug": "battle_of_wolf_359",
+    "title": "Battle of Wolf 359",
+    "kind": "event",
+    "chars": 36103
+  },
+  {
+    "slug": "prime_directive",
+    "title": "Prime Directive",
+    "kind": "concept",
+    "chars": 70270
+  }
+]
