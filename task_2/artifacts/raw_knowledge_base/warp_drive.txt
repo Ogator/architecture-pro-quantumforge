@@ -1,0 +1,127 @@
+Warp drive or warp engine was a technology that allowed space travel at faster-than-light speeds. It worked by generating warp fields to form a subspace bubble that enveloped the starship, distorting the local spacetime continuum and moving the starship at velocities that could greatly exceed the speed of light. These velocities were referred to as warp factors. Warp drive was the most common form of interstellar propulsion used in the Milky Way Galaxy, making interstellar civilization, exploration, and commerce possible. By the 24th century, warp was the primary means of interstellar transport, but scientists from various cultures (and Starfleet in the 23rd century) were pursuing various alternative propulsion methods that were hypothetically faster or more efficient, such as transwarp drive and quantum slipstream drive. In the late 32nd century, the Federation succeeded in creating the new pathway drive which appeared to replace the warp drive entirely in the 33rd century.
+
+== Etymology ==
+
+In 2063, the term "warp drive" was already used by Zefram Cochrane of his engine on the Phoenix. However, Cochrane used the term "space warp generator" in the monitor displays on his spacecraft. (Star Trek: First Contact) Even as late as the 2150s, the warp five engine was still officially known as a "gravimetric field displacement manifold" .
+Most cultures throughout the Milky Way Galaxy used the term "warp drive" and by the late-23rd century it was the most common term used by the Federation as well (Star Trek: The Original Series, et al.). In the 2250s the term "hyperdrive" was used by Starfleet,  and the Ferengi occasionally used the term "lightspeed drive".  Finally, there was the term "star drive" which was only used by the Federation and Starfleet in the 2260s. 
+Space warp was one of the vocabulary words listed on the chart "A Tunnel in the Sky". This chart was seen in the schoolroom aboard Deep Space 9 in 2369. 
+The process of going to warp was described as a warp jump. 
+
+== Technology ==
+
+Warp engines were the bulky units found, in many cases, in a starship's nacelle. 
+24th century Federation warp engines were fueled by the reaction of matter (deuterium) and antimatter (antideuterium), mediated through an assembly of dilithium crystals, which were nonreactive with antimatter when subjected to high-frequency electromagnetic fields. This reaction produced a highly energetic plasma, called electro-plasma or warp plasma, which was channeled by plasma conduits through the electro-plasma system (EPS); that system also provided the primary energy supply for the ships other electronic systems. For propulsion the electro-plasma was funneled by plasma injectors into a series of warp field coils, usually located in remote warp nacelles. These coils were composed of verterium cortenide and generated the warp field.
+Other civilizations used different power sources, such as the Romulans' use of artificial quantum singularities to power their warp drives,  but the basic process was similar. In some vessels, such as the Intrepid-class, the nacelles were mounted on variable geometry pylons. 
+
+=== Parts of the system ===
+Antimatter containment
+Antimatter inducer
+Antimatter relay
+Deuterium cartridges
+Deuterium control conduit
+Electro-plasma
+Emergency shutdown trips
+Main stage flux chiller
+Magnetic interlock
+Nacelle
+Bussard collectors
+Plasma injector
+Warp coil
+Nullifier core
+Pre stage flux chiller
+Phase inducer
+Plasma conduit
+Plasma intercooler
+Plasma coolant
+Plasma regulator
+Power transfer conduit
+Power transfer grid
+Space matrix restoration coil
+Warp field generator
+Warp plasma conduit
+Warp core / matter/antimatter reaction assembly
+Antimatter injector
+Antiproton injection seal
+Dilithium crystal chamber
+dilithium articulation frame
+dilithium chamber hatch
+dilithium crystal
+dilithium regulator
+Intermix chamber
+Matter injector / deuterium injector
+Theta-matrix compositor
+
+=== System types ===
+Class 7 warp drive
+Class 9 warp drive
+Enhanced warp drive
+S-2 graf unit
+Subspace resonator
+Tetryon plasma warp drive
+Tricyclic plasma drive
+Warp five engine
+Warp three engine
+Yoyodyne pulse fusion
+
+== Development ==
+Warp drive and other faster-than-light (FTL) propulsion technologies were the linchpin of an interstellar civilization, making trade and exploration across vast interstellar distances viable. Without these technologies, these distances could not be crossed in any reasonable period of time, making interstellar civilization usually limited to a single sector.  To put this in perspective, planets that were years away with impulse speeds could be reached in days with ships equipped with warp drive. 
+
+Cultures in the galaxy discovered warp drive at their own pace and rate of development, as most of the cultures had to do. The Vulcans were an interstellar civilization by 9th century BC and had reached the level of warp 7 by 2151.  Klingons had interstellar travel capability around the time of Kahless in the 9th century. They had achieved the capability of warp 6 by 2151.  Romulans were once considered a group of petty thugs and warp drive was regarded as the key technology that allowed the founding of the Romulan Star Empire. (Star Trek: Insurrection) The Vissians developed warp drive around the 12th century.  The Borg in the Delta Quadrant began to establish their interstellar collective by the 15th century.  In the Alpha Quadrant, the rapid progress of Humanity in the 22nd century led to the wide-scale exploration of the galaxy being one of the basic goals of the United Federation of Planets, founded in 2161.
+
+The development of the warp drive was recognized by the United Federation of Planets as the marker of an advanced society. It was only after a people developed warp drive that the Federation made contact, as codified in the Prime Directive.  A warp-capable society was deemed technically and psychologically mature enough to embrace the universe at large.
+According to Science Officer Spock in 2259, not once in the entire history of first contact had warp been first developed as anything but a drive. However, the Kiley had developed warp in the form of a warp bomb. 
+
+=== 21st century ===
+
+On Earth, warp drive was initially developed by Zefram Cochrane, in the period following World War III. (Star Trek: First Contact)
+The spacecraft credited with discovering the space warp phenomenon was the Bonaventure. 
+Despite the hardships imposed by the war's aftermath and the lack of advanced materials, Cochrane was able to build a manned warp-capable vessel using a converted Titan II missile. The successful first flight of his test ship – the Phoenix – took place on April 5, 2063, and drew the attention of a Vulcan exploratory vessel, leading to the event known as First Contact. (Star Trek: First Contact)
+The Bonaventure then became the first deep-space starship to have warp drive installed. (TAS: "The Time Trap")
+
+=== 22nd century ===
+
+Development of warp technology by Humans proceeded slowly over the next eighty years, after the flight of the Phoenix – due, in no small part, to the cautious advice of the Vulcans – and it was not until the 2140s that a warp engine developed by Henry Archer at the Warp Five Complex could exceed warp factor 2.
+This engine was successfully tested in the second NX prototype by Commanders A.G. Robinson and Jonathan Archer to a speed of warp 2.5, breaking the so-called "warp 2 barrier" in 2143. Eight months later, Duvall achieved warp 3 with the NX Delta. Warp 4 was first achieved by the USS Franklin. 
+By the year 2149, warp technology was sufficiently advanced to begin the construction of Enterprise, a vessel capable of warp 5 and launched in 2151.  Although Enterprise was at first unable to fully realize this potential (maxing out at warp 4.7), the starship finally reached warp 5 on February 9, 2152. 
+By 2161, Starfleet warp drive technology had achieved the capability to reach warp 7, and these engines were being built into the latest class of Starfleet vessels as the NX-class ships were being decommissioned. 
+
+=== 23rd century ===
+
+Development and improvement of warp drive continued apace, and by the 2240s, Starfleet vessels of the Constitution-class had standard cruising speeds of warp 6 and emergency speeds as high as warp 8 (although under the right conditions, the engines could reach warp 9). These ships took advantage of a major breakthrough in warp technology that took place between 2236 and 2254, the breaking of the so-called "time barrier". 
+Higher warp factors continued to be reached, mostly through alien intervention, or dangerous malfunction. The USS Enterprise was modified by the Kelvans to maintain a speed of warp 11 in 2268. Later that year, the Enterprise accelerated to a speed of warp factor 14.1, after being sabotaged by a Kalandan planetary defense system. At that velocity, however, the ship came within moments of destroying itself. 
+At around the same time, warp engines were being redesigned to allow standard speeds of warp 8 and above. During the refit of the Constitution-class, the cylindrical-shaped nacelles were replaced with a new flattened design. Engines required precise tuning; imbalanced engines caused a wormhole effect that almost destroyed Enterprise on its first mission after refit. (Star Trek: The Motion Picture)
+
+Warp theory continued to advance with the development of the first transwarp drive engines in the mid-2280s, which would have theoretically allowed greater efficiency and any warp speed to be available for a ship. However, the transwarp experiment of USS Excelsior ended in failure, and the technology was abandoned at that time. The Excelsior itself was deemed spaceworthy, retrofitted with conventional warp drive and commissioned as NCC-2000 under the command of Captain Hikaru Sulu. (Star Trek III: The Search for Spock; VOY: "Threshold"; Star Trek VI: The Undiscovered Country)
+
+=== 24th century ===
+
+At some point in the 24th century, a new warp factor scale came into use, which placed warp 10 as a theoretical maximum. 
+
+By the time the Galaxy-class starship was being designed in the 2360s, warp technology had progressed to the point where speeds of warp 9.6 could be sustained for up to twelve hours, although warp 9.2 was considered the "red line." 
+
+In 2367, the warp drive on the Galaxy-class starship was managed by the warp propulsion power system. In that year, when Data hijacked the USS Enterprise-D, he issued a command override on this system giving him complete control of the system from the bridge. 
+
+The USS Voyager was capable of a top cruising speed of warp 9.975. 
+The USS Prometheus was capable of a sustained cruising speed of warp 9.9. 
+In 2370, the Hekaran scientist Serova discovered that the use of conventional warp engines caused damage to the fabric of spacetime. The Federation Council imposed a speed limit of warp factor 5 on all Federation vessels in all but extreme emergency cases, such as medical emergencies. A conspiracy theory posit by Steve Levy suggested that the discovery of this was part of a Vendorian morality test 
+
+It was not until 2372, that the transwarp threshold was broken by the Federation. Tom Paris of the USS Voyager managed to achieve infinite velocity on the shuttlecraft Cochrane. However, this form of travel was found to have severe, unanticipated side effects. 
+The USS Protostar was capable of speeds of warp 9.97 from which it could then engage its protostar drive, allowing the ship to travel well beyond warp speed. At proto-warp, the ship could cross thousands of light years in just minutes, a trip that would normally take years at regular warp speed. 
+The USS Dauntless, which had a quantum slipstream drive, was easily capable of overtaking the Protostar when the smaller ship's warp speed was maxed out.  The Lamarr-class science vessel USS Voyager-A was also equipped with a slipstream drive. 
+However, the Attack on Mars in 2385 and the Federation's subsequent decision to focus on defense rather than exploration led to the protostar drive being scrapped and the Protostar-class being slated for decommissioning. However, Vice Admiral Kathryn Janeway got the new USS Prodigy turned into a training ship in a pilot program under her command with the former crew of the Protostar manning it. 
+In an alternate future 2370 observed by Jean-Luc Picard, speeds of at least warp 13 were possible. 
+
+=== 31st and 32nd centuries ===
+In the 31st century, the Federation began running out of dilithium, leading it to mandate that its member worlds research warp alternatives. Among these were SB-19 and the singularity drive. None of these experimental technologies proved viable. 
+In the late 32nd century, the pathway drive was developed by the Federation to lessen their dependence on dilithium. Due to the arrival of the USS Discovery from the past, the spore drive was also explored as a warp drive alternative, but proved impractical for large-scale implementation 
+
+== Appendices ==
+
+=== Background information ===
+Gene Roddenberry originally intended the Enterprise to become transparent while in warp drive, as depicted in "The Cage" (later reformatted into the two-part "The Menagerie"). The idea was that the ship would be traveling faster than light, which means that light would not reach it, rendering the vessel invisible to the naked eye. However, according to Einstein's Theory of Special Relativity, the speed of light is a constant from any frame of reference; an observer moving at close to c would still observe light moving toward him and away from him at c.
+
+=== External links ===
+Warp drive at Memory Beta, the wiki for licensed Star Trek works
+Hyperdrive at Memory Beta, the wiki for licensed Star Trek works
+Warp drive at Wikipedia
+André Bormanis's explanation of warp drive(X)

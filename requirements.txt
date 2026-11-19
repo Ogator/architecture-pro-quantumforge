@@ -1,0 +1,18 @@
+# Общие зависимости проекта QuantumForge RAG
+# Используется для заданий 2, 3 и 4
+
+# Задание 2: скачивание базы знаний через MediaWiki API
+requests>=2.31,<3
+
+# Задание 3: векторный индекс
+sentence-transformers>=5.1,<6
+qdrant-client>=1.15,<2
+langchain-text-splitters>=1,<2
+
+# Задание 4: RAG бот с LLM
+openai>=1.0,<2              # Опционально: для OpenAI GPT
+ollama>=0.2.0               # Для локальных моделей (по умолчанию)
+python-dotenv>=1.0,<2
+
+# Тестирование
+pytest>=8,<9

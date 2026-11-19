@@ -1,0 +1,12 @@
+{
+  "model": "BAAI/bge-m3",
+  "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "dimension": 1024,
+  "distance": "Cosine",
+  "documents": 43,
+  "chunks": 1627,
+  "chunk_words": 250,
+  "overlap_words": 35,
+  "embedding_seconds": 1127.1591215750013,
+  "total_seconds": 1485.3067951340017
+}
